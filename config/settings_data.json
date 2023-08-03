@@ -779,7 +779,7 @@
           "06933006-01a5-4f03-921c-f6ff69741254"
         ],
         "custom_css": [
-
+          ".flex-grid__item {flex-basis: 25% !important;}"
         ],
         "settings": {
           "full_width": false,
