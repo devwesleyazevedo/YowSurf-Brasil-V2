@@ -696,8 +696,8 @@
         "settings": {
           "full_width": false,
           "gutter_size": 40,
-          "space_above": false,
-          "space_below": false
+          "space_above": true,
+          "space_below": true
         }
       },
       "a79b8bbf-0209-4846-b40a-6284e08593b6": {
