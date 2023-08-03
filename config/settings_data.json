@@ -792,6 +792,20 @@
           "space_above": true,
           "space_below": false
         }
+      },
+      "86ac5383-6b10-4818-b33b-075cca869c00": {
+        "type": "text-and-image",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/1080x1080_meraki_single_540x_f067669c-3d1b-45ea-8f72-7d0d1a9dd8ef.webp",
+          "image_width": 500,
+          "subtitle": "O CAMINHÃO GIRATÓRIO",
+          "title": "SISTEMA DE SURFSKATE MERAKI",
+          "text": "<p>O sistema de surfskate YOW Meraki é o culminar dos últimos 5 anos de pesquisa e desenvolvimento. Um design mais simplificado e reforçado junto com nosso sistema de mola patenteado o torna uma das configurações de surfskate mais exclusivas do mundo.<\/p><p>O novo sistema agora está unificado aos nossos próprios caminhões de skate, tornando-o mais estável sem sacrificar o fluxo de surf pelo qual nosso sistema é bem conhecido. Leve seu surfskating para o próximo nível.<\/p>",
+          "button_label": "Descubra mais",
+          "button_link": "",
+          "layout": "left",
+          "divider": false
+        }
       }
     },
     "content_for_index": [
@@ -802,6 +816,7 @@
       "a2f5ce35-acbc-4ee2-b010-f4410fda0658",
       "a79b8bbf-0209-4846-b40a-6284e08593b6",
       "189f3c7b-a58e-4e40-ad5a-ea712fa5aa31",
+      "86ac5383-6b10-4818-b33b-075cca869c00",
       "0a771dc9-dbd1-4702-bc73-2fe828d8cdd0",
       "1525115199973"
     ]
