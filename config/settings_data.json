@@ -662,7 +662,7 @@
           "1525912530555-1"
         ],
         "settings": {
-          "full_width": true,
+          "full_width": false,
           "gutter_size": 20,
           "space_above": false,
           "space_below": false
