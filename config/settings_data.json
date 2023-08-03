@@ -103,9 +103,9 @@
           "1524770292306": {
             "type": "announcement",
             "settings": {
-              "text": "Free shipping",
-              "link_text": "On All Orders Over $100",
-              "link": ""
+              "text": "Frete grátis para todo o Brasil",
+              "link_text": "em todos os pedidos acima de R$99,00",
+              "link": "shopify:\/\/collections"
             }
           }
         },
