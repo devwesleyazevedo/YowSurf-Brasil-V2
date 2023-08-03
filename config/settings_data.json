@@ -825,6 +825,18 @@
           "feed_width": 90,
           "html_area": ""
         }
+      },
+      "a2f5ce35-acbc-4ee2-b010-f4410fda0658": {
+        "type": "featured-collection",
+        "settings": {
+          "title": "CONFIRA A GAMA COMPLETA",
+          "home_featured_products": "new-collection",
+          "per_row": 4,
+          "rows": 1,
+          "mobile_scrollable": true,
+          "view_all": true,
+          "divider": false
+        }
       }
     },
     "content_for_index": [
@@ -833,6 +845,7 @@
       "1525912530555",
       "1499789718857",
       "1525295772132",
+      "a2f5ce35-acbc-4ee2-b010-f4410fda0658",
       "1525886124958",
       "1611170395dc5e4332",
       "1613155067bae53f29",
