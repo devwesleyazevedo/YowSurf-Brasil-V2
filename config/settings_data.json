@@ -232,12 +232,11 @@
       },
       "1499789718857": {
         "type": "featured-collections",
-        "disabled": true,
         "blocks": {
           "1499789718857-0": {
             "type": "collection",
             "settings": {
-              "collection": "activewear",
+              "collection": "serie-de-desempenho",
               "title": "",
               "focal_point": "center center"
             }
@@ -282,7 +281,6 @@
       },
       "1499790633921": {
         "type": "background-image-text",
-        "disabled": true,
         "settings": {
           "subtitle": "Impressive",
           "title": "Large image with text box",
@@ -489,7 +487,6 @@
       },
       "1525115199973": {
         "type": "blog-posts",
-        "disabled": true,
         "settings": {
           "title": "From the journal",
           "blog": "news",
@@ -517,7 +514,6 @@
       },
       "1525295772132": {
         "type": "featured-collection",
-        "disabled": true,
         "settings": {
           "title": "Featured collection",
           "home_featured_products": "eyewear",
