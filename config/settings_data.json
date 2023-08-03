@@ -418,33 +418,17 @@
       "1524769873765": {
         "type": "slideshow",
         "blocks": {
-          "1524769873765-0": {
-            "type": "image",
-            "settings": {
-              "top_subheading": "",
-              "title": "15% of All Swimwear\nSales are donated",
-              "title_size": 80,
-              "subheading": "Learn more about the charities we work with.",
-              "link": "shopify:\/\/collections\/swim",
-              "link_text": "Shop Swim",
-              "link_2": "shopify:\/\/collections\/all",
-              "link_text_2": "Charities we love ♡",
-              "color_accent": "#000000",
-              "text_align": "vertical-bottom horizontal-left",
-              "focal_point": "top center"
-            }
-          },
           "1524769873765-1": {
             "type": "image",
             "settings": {
-              "top_subheading": "",
-              "title": "New cute tops, \nmore fun accessories.",
+              "top_subheading": "APRESENTANDO",
+              "title": "YOW x Mick Fanning",
               "title_size": 80,
-              "subheading": "Even better sales. Limited time only.",
+              "subheading": "Uma colaboração entre o 3x Campeão do Mundo e os surfskates YOW.",
               "link": "shopify:\/\/collections\/blouses-tops",
-              "link_text": "Shop Tops",
-              "link_2": "shopify:\/\/collections\/all",
-              "link_text_2": "Shop all",
+              "link_text": "Dê uma olhada",
+              "link_2": "",
+              "link_text_2": "",
               "color_accent": "#000000",
               "text_align": "vertical-center horizontal-center",
               "image": "shopify:\/\/shop_images\/YOW-356_1944x_d5d6b23c-d4a7-4f5e-8c6d-f25f293f09fc.webp",
@@ -453,7 +437,6 @@
           }
         },
         "block_order": [
-          "1524769873765-0",
           "1524769873765-1"
         ],
         "settings": {
