@@ -754,12 +754,25 @@
               "color_tint_opacity": 8,
               "framed": false
             }
+          },
+          "9592c01a-a695-4465-8ecb-45144e437b0c": {
+            "type": "simple",
+            "settings": {
+              "link": "",
+              "text": "",
+              "width": "33",
+              "height": 300,
+              "color_tint": "#000",
+              "color_tint_opacity": 8,
+              "framed": false
+            }
           }
         },
         "block_order": [
           "189f3c7b-a58e-4e40-ad5a-ea712fa5aa31-simple-1",
           "bb38cc4b-e1aa-4d61-9d18-da4c4fc72fd1",
-          "9d288ab5-1f25-4db9-8ea4-7a0127251b3e"
+          "9d288ab5-1f25-4db9-8ea4-7a0127251b3e",
+          "9592c01a-a695-4465-8ecb-45144e437b0c"
         ],
         "custom_css": [
           ".flex-grid__item {width: 25% !important;}"
