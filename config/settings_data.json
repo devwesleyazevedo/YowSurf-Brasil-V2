@@ -60,7 +60,7 @@
     "product_color_swatches": false,
     "collection_color_swatches": false,
     "product_contact": false,
-    "collection_grid_style": "overlaid-box",
+    "collection_grid_style": "overlaid",
     "collection_grid_shape": "square",
     "collection_grid_image": "product",
     "collection_grid_text_align": "center",
@@ -228,55 +228,6 @@
           "blog_show_comments": true,
           "blog_show_author": false,
           "blog_image_size": "wide"
-        }
-      },
-      "1499789718857": {
-        "type": "featured-collections",
-        "blocks": {
-          "1499789718857-0": {
-            "type": "collection",
-            "settings": {
-              "collection": "serie-de-assinaturas",
-              "title": "",
-              "focal_point": "center center"
-            }
-          },
-          "1499789718857-1": {
-            "type": "collection",
-            "settings": {
-              "collection": "serie-shaper",
-              "title": "",
-              "focal_point": "center center"
-            }
-          },
-          "1499789718857-2": {
-            "type": "collection",
-            "settings": {
-              "collection": "serie-de-assinaturas",
-              "title": "",
-              "focal_point": "center center"
-            }
-          },
-          "1499789718857-3": {
-            "type": "collection",
-            "settings": {
-              "collection": "os-gross",
-              "title": "",
-              "focal_point": "center center"
-            }
-          }
-        },
-        "block_order": [
-          "1499789718857-0",
-          "1499789718857-1",
-          "1499789718857-2",
-          "1499789718857-3"
-        ],
-        "settings": {
-          "title": "Shop by category",
-          "divider": false,
-          "per_row": 4,
-          "enable_gutter": true
         }
       },
       "product-sections-template": {
@@ -806,15 +757,84 @@
           "layout": "left",
           "divider": false
         }
+      },
+      "14dbf518-50a7-4603-8477-a1bda7e88dd7": {
+        "type": "promo-grid",
+        "blocks": {
+          "78806a12-512a-434c-b579-b8a59e64edb4": {
+            "type": "simple",
+            "settings": {
+              "link": "shopify:\/\/collections\/serie-de-desempenho",
+              "text": "PERFORMANCE SERIES",
+              "image": "shopify:\/\/shop_images\/1690817893_0.png",
+              "width": "33",
+              "height": 500,
+              "color_tint": "#000000",
+              "color_tint_opacity": 8,
+              "framed": false
+            }
+          },
+          "e40787bc-412a-4662-a291-98e41d1bb45c": {
+            "type": "simple",
+            "settings": {
+              "link": "shopify:\/\/collections\/serie-shaper",
+              "text": "",
+              "image": "shopify:\/\/shop_images\/1690817909_0.png",
+              "width": "33",
+              "height": 500,
+              "color_tint": "#000000",
+              "color_tint_opacity": 8,
+              "framed": false
+            }
+          },
+          "368f39bf-c80e-43e6-8d7a-fdc01b409ba0": {
+            "type": "simple",
+            "settings": {
+              "link": "shopify:\/\/collections\/serie-de-assinaturas",
+              "text": "",
+              "image": "shopify:\/\/shop_images\/1690817920_0.png",
+              "width": "33",
+              "height": 500,
+              "color_tint": "#000000",
+              "color_tint_opacity": 8,
+              "framed": false
+            }
+          },
+          "1a2a0d84-578a-43e6-8738-3bf09c3aaf26": {
+            "type": "simple",
+            "settings": {
+              "link": "shopify:\/\/collections\/os-gross",
+              "text": "",
+              "image": "shopify:\/\/shop_images\/1690817935_0.png",
+              "width": "33",
+              "height": 500,
+              "color_tint": "#000000",
+              "color_tint_opacity": 8,
+              "framed": false
+            }
+          }
+        },
+        "block_order": [
+          "78806a12-512a-434c-b579-b8a59e64edb4",
+          "e40787bc-412a-4662-a291-98e41d1bb45c",
+          "368f39bf-c80e-43e6-8d7a-fdc01b409ba0",
+          "1a2a0d84-578a-43e6-8738-3bf09c3aaf26"
+        ],
+        "settings": {
+          "full_width": false,
+          "gutter_size": 20,
+          "space_above": true,
+          "space_below": false
+        }
       }
     },
     "content_for_index": [
       "1524769873765",
       "1498163293234",
       "1525912530555",
-      "1499789718857",
       "a2f5ce35-acbc-4ee2-b010-f4410fda0658",
       "189f3c7b-a58e-4e40-ad5a-ea712fa5aa31",
+      "14dbf518-50a7-4603-8477-a1bda7e88dd7",
       "86ac5383-6b10-4818-b33b-075cca869c00",
       "a79b8bbf-0209-4846-b40a-6284e08593b6",
       "0a771dc9-dbd1-4702-bc73-2fe828d8cdd0",
