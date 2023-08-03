@@ -163,9 +163,9 @@
           "1494301487048"
         ],
         "settings": {
-          "show_locale_selector": true,
-          "show_currency_selector": true,
-          "show_currency_flags": true,
+          "show_locale_selector": false,
+          "show_currency_selector": false,
+          "show_currency_flags": false,
           "show_payment_icons": true,
           "show_copyright": true,
           "copyright_text": ""
@@ -527,71 +527,6 @@
           "divider": false
         }
       },
-      "1525886124958": {
-        "type": "promo-grid",
-        "blocks": {
-          "1525886482727": {
-            "type": "advanced",
-            "settings": {
-              "subheading": "Limited time",
-              "heading": "All shoes on sale",
-              "textarea": "Select Shoes - Buy One, Get One FREE!",
-              "cta_text1": "Shop Shoes",
-              "cta_link1": "shopify:\/\/collections\/shoes",
-              "cta_text2": "Shop All",
-              "cta_link2": "shopify:\/\/collections\/all",
-              "video_url": "",
-              "width": "100",
-              "height": 720,
-              "text_size": 120,
-              "text_align": "vertical-center horizontal-center",
-              "focal_point": "center",
-              "color_accent": "rgba(0,0,0,0)",
-              "boxed": false,
-              "framed": false
-            }
-          },
-          "1525886854810": {
-            "type": "sale_collection",
-            "settings": {
-              "sale_collection": "blouses-tops",
-              "top_text": "Up to",
-              "middle_text": "25% off",
-              "bottom_text": "Select products",
-              "width": "50",
-              "color_tint": "#000000",
-              "color_tint_opacity": 6,
-              "boxed": false,
-              "framed": true
-            }
-          },
-          "1525911710924": {
-            "type": "sale_collection",
-            "settings": {
-              "sale_collection": "swim",
-              "top_text": "Up to",
-              "middle_text": "50% off",
-              "bottom_text": "Select products",
-              "width": "50",
-              "color_tint": "#000000",
-              "color_tint_opacity": 6,
-              "boxed": false,
-              "framed": true
-            }
-          }
-        },
-        "block_order": [
-          "1525886482727",
-          "1525886854810",
-          "1525911710924"
-        ],
-        "settings": {
-          "full_width": false,
-          "gutter_size": 19,
-          "space_above": true,
-          "space_below": false
-        }
-      },
       "1525912530555": {
         "type": "promo-grid",
         "blocks": {
@@ -829,7 +764,6 @@
       "1499789718857",
       "1525295772132",
       "a2f5ce35-acbc-4ee2-b010-f4410fda0658",
-      "1525886124958",
       "1611170395dc5e4332",
       "1613155067bae53f29",
       "1499790633921",
