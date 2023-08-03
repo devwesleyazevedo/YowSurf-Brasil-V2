@@ -724,6 +724,7 @@
             "settings": {
               "link": "shopify:\/\/collections\/serie-de-desempenho",
               "text": "PERFORMANCE SERIES",
+              "image": "shopify:\/\/shop_images\/1690817893_0.png",
               "width": "33",
               "height": 500,
               "color_tint": "#000",
@@ -736,6 +737,7 @@
             "settings": {
               "link": "shopify:\/\/collections\/serie-shaper",
               "text": "",
+              "image": "shopify:\/\/shop_images\/1690817909_0.png",
               "width": "33",
               "height": 300,
               "color_tint": "#000",
@@ -748,6 +750,7 @@
             "settings": {
               "link": "shopify:\/\/collections\/serie-de-assinaturas",
               "text": "",
+              "image": "shopify:\/\/shop_images\/1690817920_0.png",
               "width": "33",
               "height": 300,
               "color_tint": "#000",
@@ -760,6 +763,7 @@
             "settings": {
               "link": "shopify:\/\/collections\/os-gross",
               "text": "",
+              "image": "shopify:\/\/shop_images\/1690817935_0.png",
               "width": "33",
               "height": 300,
               "color_tint": "#000",
