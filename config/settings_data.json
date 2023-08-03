@@ -788,8 +788,8 @@
         ],
         "custom_css": [
           ".flex-grid__item {flex-basis: 25% !important;}",
-          ".flex-grid__item {background: red;}",
-          ".flex-grid__item:hover {background: blue;}"
+          ".promo-grid__container--tint:before {background: red;}",
+          ".promo-grid__container--tint:hover:before {background: blue;}"
         ],
         "settings": {
           "full_width": false,
