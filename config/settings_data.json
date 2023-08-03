@@ -754,25 +754,15 @@
               "color_tint_opacity": 8,
               "framed": false
             }
-          },
-          "157092bf-6cd7-487e-9542-33c8bc1989a7": {
-            "type": "simple",
-            "settings": {
-              "link": "",
-              "text": "",
-              "width": "33",
-              "height": 300,
-              "color_tint": "#000",
-              "color_tint_opacity": 8,
-              "framed": false
-            }
           }
         },
         "block_order": [
           "189f3c7b-a58e-4e40-ad5a-ea712fa5aa31-simple-1",
           "bb38cc4b-e1aa-4d61-9d18-da4c4fc72fd1",
-          "9d288ab5-1f25-4db9-8ea4-7a0127251b3e",
-          "157092bf-6cd7-487e-9542-33c8bc1989a7"
+          "9d288ab5-1f25-4db9-8ea4-7a0127251b3e"
+        ],
+        "custom_css": [
+          ".flex-grid__item {width: 25% !important;}"
         ],
         "settings": {
           "full_width": false,
