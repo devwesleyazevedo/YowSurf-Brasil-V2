@@ -570,7 +570,6 @@
               "cta_link1": "shopify:\/\/collections\/eyewear",
               "cta_text2": "Shop All",
               "cta_link2": "shopify:\/\/collections\/all",
-              "image": "shopify:\/\/shop_images\/happy-woman.jpg",
               "video_url": "",
               "width": "100",
               "height": 500,
@@ -716,6 +715,71 @@
           "framed": false,
           "parallax": true
         }
+      },
+      "189f3c7b-a58e-4e40-ad5a-ea712fa5aa31": {
+        "type": "promo-grid",
+        "blocks": {
+          "189f3c7b-a58e-4e40-ad5a-ea712fa5aa31-simple-1": {
+            "type": "simple",
+            "settings": {
+              "link": "shopify:\/\/collections\/serie-de-desempenho",
+              "text": "PERFORMANCE SERIES",
+              "width": "33",
+              "height": 500,
+              "color_tint": "#000",
+              "color_tint_opacity": 8,
+              "framed": false
+            }
+          },
+          "bb38cc4b-e1aa-4d61-9d18-da4c4fc72fd1": {
+            "type": "simple",
+            "settings": {
+              "link": "",
+              "text": "",
+              "width": "33",
+              "height": 300,
+              "color_tint": "#000",
+              "color_tint_opacity": 8,
+              "framed": false
+            }
+          },
+          "9d288ab5-1f25-4db9-8ea4-7a0127251b3e": {
+            "type": "simple",
+            "settings": {
+              "link": "",
+              "text": "",
+              "width": "33",
+              "height": 300,
+              "color_tint": "#000",
+              "color_tint_opacity": 8,
+              "framed": false
+            }
+          },
+          "157092bf-6cd7-487e-9542-33c8bc1989a7": {
+            "type": "simple",
+            "settings": {
+              "link": "",
+              "text": "",
+              "width": "33",
+              "height": 300,
+              "color_tint": "#000",
+              "color_tint_opacity": 8,
+              "framed": false
+            }
+          }
+        },
+        "block_order": [
+          "189f3c7b-a58e-4e40-ad5a-ea712fa5aa31-simple-1",
+          "bb38cc4b-e1aa-4d61-9d18-da4c4fc72fd1",
+          "9d288ab5-1f25-4db9-8ea4-7a0127251b3e",
+          "157092bf-6cd7-487e-9542-33c8bc1989a7"
+        ],
+        "settings": {
+          "full_width": false,
+          "gutter_size": 20,
+          "space_above": true,
+          "space_below": true
+        }
       }
     },
     "content_for_index": [
@@ -726,7 +790,8 @@
       "a2f5ce35-acbc-4ee2-b010-f4410fda0658",
       "a79b8bbf-0209-4846-b40a-6284e08593b6",
       "0a771dc9-dbd1-4702-bc73-2fe828d8cdd0",
-      "1525115199973"
+      "1525115199973",
+      "189f3c7b-a58e-4e40-ad5a-ea712fa5aa31"
     ]
   },
   "presets": {
