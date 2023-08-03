@@ -768,9 +768,8 @@
               "cta_link1": "shopify:\/\/collections\/serie-de-assinaturas",
               "cta_text2": "",
               "cta_link2": "",
-              "image": "shopify:\/\/shop_images\/1690817920_0.png",
               "video_url": "",
-              "width": "100",
+              "width": "33",
               "height": 500,
               "text_size": 115,
               "text_align": "vertical-center horizontal-center",
@@ -788,7 +787,9 @@
           "f593a88c-9654-4f24-adbc-c8644fc60263"
         ],
         "custom_css": [
-          ".flex-grid__item {flex-basis: 25% !important;}"
+          ".flex-grid__item {flex-basis: 25% !important;}",
+          ".flex-grid__item {background: red;}",
+          ".flex-grid__item:hover {background: blue;}"
         ],
         "settings": {
           "full_width": false,
