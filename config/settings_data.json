@@ -782,7 +782,7 @@
           ".flex-grid__item {flex-basis: 25% !important;}",
           ".promo-grid__container--tint:before {background-color: #000000; opacity: 0.1; transition: opacity 0.8s ease;}",
           ".promo-grid__container--tint:hover:before {opacity: 0.25;}",
-          ".promo-grid__container--tint .promo-grid__bg {animation:fade-in 1s cubic-bezier(0.26, 0.54, 0.32, 1) 0s forwards; transition: .5s;}",
+          ".promo-grid__container--tint .promo-grid__bg {transition: background-size .5s;}",
           ".promo-grid__container--tint:hover .promo-grid__bg {background-size: auto 110%;}"
         ],
         "settings": {
