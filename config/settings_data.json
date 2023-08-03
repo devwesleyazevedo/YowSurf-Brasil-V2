@@ -748,7 +748,7 @@
           "9592c01a-a695-4465-8ecb-45144e437b0c": {
             "type": "simple",
             "settings": {
-              "link": "shopify:\/\/collections\/os-gross",
+              "link": "shopify:\/\/collections\/serie-de-assinaturas",
               "text": "",
               "image": "shopify:\/\/shop_images\/1690817935_0.png",
               "width": "33",
@@ -758,24 +758,16 @@
               "framed": false
             }
           },
-          "f593a88c-9654-4f24-adbc-c8644fc60263": {
-            "type": "advanced",
+          "06933006-01a5-4f03-921c-f6ff69741254": {
+            "type": "simple",
             "settings": {
-              "subheading": "",
-              "heading": "ss",
-              "textarea": "",
-              "cta_text1": "asasas",
-              "cta_link1": "shopify:\/\/collections\/serie-de-assinaturas",
-              "cta_text2": "",
-              "cta_link2": "",
-              "video_url": "",
+              "link": "shopify:\/\/collections\/os-gross",
+              "text": "",
+              "image": "shopify:\/\/shop_images\/1690817935_0.png",
               "width": "33",
               "height": 500,
-              "text_size": 115,
-              "text_align": "vertical-center horizontal-center",
-              "focal_point": "center",
-              "color_accent": "rgba(0,0,0,0)",
-              "boxed": false,
+              "color_tint": "#000000",
+              "color_tint_opacity": 8,
               "framed": false
             }
           }
@@ -784,12 +776,10 @@
           "189f3c7b-a58e-4e40-ad5a-ea712fa5aa31-simple-1",
           "bb38cc4b-e1aa-4d61-9d18-da4c4fc72fd1",
           "9592c01a-a695-4465-8ecb-45144e437b0c",
-          "f593a88c-9654-4f24-adbc-c8644fc60263"
+          "06933006-01a5-4f03-921c-f6ff69741254"
         ],
         "custom_css": [
-          ".flex-grid__item {flex-basis: 25% !important;}",
-          ".promo-grid__container--tint:before {background: red;}",
-          ".promo-grid__container--tint:hover:before {background: blue;}"
+
         ],
         "settings": {
           "full_width": false,
