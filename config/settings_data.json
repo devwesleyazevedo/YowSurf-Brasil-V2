@@ -780,8 +780,8 @@
         ],
         "custom_css": [
           ".flex-grid__item {flex-basis: 25% !important;}",
-          ".promo-grid__container--tint:before {background-color: #000000; background-color: red; opacity: 0; transition: opacity 0.8s ease;}",
-          ".promo-grid__container--tint:hover:before {opacity: 0.25; opacity: 1;}"
+          ".promo-grid__container--tint:before {background-color: #000000; opacity: 0.1; transition: opacity 0.8s ease;}",
+          ".promo-grid__container--tint:hover:before {opacity: 0.25;}"
         ],
         "settings": {
           "full_width": false,
