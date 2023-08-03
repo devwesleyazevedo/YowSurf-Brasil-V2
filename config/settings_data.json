@@ -244,7 +244,7 @@
           "1499789718857-1": {
             "type": "collection",
             "settings": {
-              "collection": "self-care",
+              "collection": "serie-shaper",
               "title": "",
               "focal_point": "center center"
             }
@@ -252,7 +252,7 @@
           "1499789718857-2": {
             "type": "collection",
             "settings": {
-              "collection": "bags",
+              "collection": "serie-de-assinaturas",
               "title": "",
               "focal_point": "center center"
             }
@@ -260,7 +260,7 @@
           "1499789718857-3": {
             "type": "collection",
             "settings": {
-              "collection": "dresses",
+              "collection": "os-gross",
               "title": "",
               "focal_point": "center center"
             }
