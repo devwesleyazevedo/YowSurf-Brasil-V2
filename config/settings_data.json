@@ -446,7 +446,8 @@
               "link_2": "shopify:\/\/collections\/all",
               "link_text_2": "Shop all",
               "color_accent": "#000000",
-              "text_align": "vertical-bottom horizontal-left",
+              "text_align": "vertical-center horizontal-center",
+              "image": "shopify:\/\/shop_images\/YOW-356_1944x_d5d6b23c-d4a7-4f5e-8c6d-f25f293f09fc.webp",
               "focal_point": "center center"
             }
           }
