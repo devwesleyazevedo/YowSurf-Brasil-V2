@@ -745,19 +745,6 @@
               "framed": false
             }
           },
-          "9d288ab5-1f25-4db9-8ea4-7a0127251b3e": {
-            "type": "simple",
-            "settings": {
-              "link": "shopify:\/\/collections\/serie-de-assinaturas",
-              "text": "",
-              "image": "shopify:\/\/shop_images\/1690817920_0.png",
-              "width": "33",
-              "height": 500,
-              "color_tint": "#000000",
-              "color_tint_opacity": 8,
-              "framed": false
-            }
-          },
           "9592c01a-a695-4465-8ecb-45144e437b0c": {
             "type": "simple",
             "settings": {
@@ -768,39 +755,6 @@
               "height": 500,
               "color_tint": "#000000",
               "color_tint_opacity": 8,
-              "framed": false
-            }
-          },
-          "7381350b-3381-4acd-830f-4423374d8510": {
-            "type": "image",
-            "settings": {
-              "link": "shopify:\/\/collections\/serie-de-assinaturas",
-              "width": "100"
-            }
-          },
-          "cd63f444-33af-43cf-87a1-2ccb63b464e3": {
-            "type": "banner",
-            "settings": {
-              "heading": "Banner promotion",
-              "text": "Add the details of your promotion in smaller text",
-              "link": "",
-              "label": "Shop now",
-              "color_tint": "#000",
-              "color_tint_opacity": 8,
-              "framed": false
-            }
-          },
-          "8d92620e-c39c-4b35-82c7-47c965518d8f": {
-            "type": "sale_collection",
-            "settings": {
-              "sale_collection": "",
-              "top_text": "Up to",
-              "middle_text": "50% off",
-              "bottom_text": "Select products",
-              "width": "100",
-              "color_tint": "#000",
-              "color_tint_opacity": 0,
-              "boxed": false,
               "framed": false
             }
           },
@@ -830,11 +784,7 @@
         "block_order": [
           "189f3c7b-a58e-4e40-ad5a-ea712fa5aa31-simple-1",
           "bb38cc4b-e1aa-4d61-9d18-da4c4fc72fd1",
-          "9d288ab5-1f25-4db9-8ea4-7a0127251b3e",
           "9592c01a-a695-4465-8ecb-45144e437b0c",
-          "7381350b-3381-4acd-830f-4423374d8510",
-          "cd63f444-33af-43cf-87a1-2ccb63b464e3",
-          "8d92620e-c39c-4b35-82c7-47c965518d8f",
           "f593a88c-9654-4f24-adbc-c8644fc60263"
         ],
         "custom_css": [
