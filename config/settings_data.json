@@ -764,14 +764,13 @@
           "6e263577-dea1-4886-8d5b-27a575095f2f": {
             "type": "advanced",
             "settings": {
-              "subheading": "Limited time",
-              "heading": "promotion",
-              "textarea": "All jewelry items on sale!",
-              "cta_text1": "Shop This",
-              "cta_link1": "shopify:\/\/collections\/jewelry",
-              "cta_text2": "Shop All",
-              "cta_link2": "https:\/\/afx.life\/collections\/all",
-              "image": "shopify:\/\/shop_images\/1080x1080_yow_promo_pipe_720x_8a0aadbc-eff3-4201-940b-27fdf7631836.jpg",
+              "subheading": "",
+              "heading": "PATINS DE SURF 29\"-31\"",
+              "textarea": "Para o Grom ou pés pequenos. Plante seus pés em um desses.",
+              "cta_text1": "Compre isso",
+              "cta_link1": "shopify:\/\/collections\/all",
+              "cta_text2": "",
+              "cta_link2": "",
               "video_url": "https:\/\/www.youtube.com\/watch?v=L1FlIoZVETY",
               "width": "50",
               "height": 400,
@@ -783,17 +782,16 @@
               "framed": false
             }
           },
-          "892dc1d9-7761-4b8f-b991-4e146e894142": {
+          "7c6174f1-e01a-424c-a6a6-04e27d48a31c": {
             "type": "advanced",
             "settings": {
-              "subheading": "Limited time",
-              "heading": "promotion",
-              "textarea": "All jewelry items on sale!",
-              "cta_text1": "Shop This",
-              "cta_link1": "shopify:\/\/collections\/jewelry",
-              "cta_text2": "Shop All",
-              "cta_link2": "https:\/\/afx.life\/collections\/all",
-              "image": "shopify:\/\/shop_images\/1080x1080_yow_promo_pipe_720x_8a0aadbc-eff3-4201-940b-27fdf7631836.jpg",
+              "subheading": "",
+              "heading": "PATINS DE SURF 29\"-31\"",
+              "textarea": "Para o Grom ou pés pequenos. Plante seus pés em um desses.",
+              "cta_text1": "Compre isso",
+              "cta_link1": "shopify:\/\/collections\/all",
+              "cta_text2": "",
+              "cta_link2": "",
               "video_url": "https:\/\/www.youtube.com\/watch?v=esqEGrAtB6Y",
               "width": "50",
               "height": 400,
@@ -808,7 +806,7 @@
         },
         "block_order": [
           "6e263577-dea1-4886-8d5b-27a575095f2f",
-          "892dc1d9-7761-4b8f-b991-4e146e894142"
+          "7c6174f1-e01a-424c-a6a6-04e27d48a31c"
         ],
         "settings": {
           "full_width": true,
