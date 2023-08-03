@@ -699,6 +699,23 @@
           "space_above": false,
           "space_below": false
         }
+      },
+      "a79b8bbf-0209-4846-b40a-6284e08593b6": {
+        "type": "background-image-text",
+        "settings": {
+          "subtitle": "",
+          "title": "",
+          "text": "",
+          "button_label": "",
+          "button_link": "",
+          "image": "shopify:\/\/shop_images\/yow-home_2400x_eb72ffd9-a331-4a9b-a64c-ae3f781c25c4.jpg",
+          "focal_point": "center",
+          "color_border": "#f4f4f4",
+          "layout": "left",
+          "height": 550,
+          "framed": false,
+          "parallax": true
+        }
       }
     },
     "content_for_index": [
@@ -708,7 +725,8 @@
       "1499789718857",
       "a2f5ce35-acbc-4ee2-b010-f4410fda0658",
       "0a771dc9-dbd1-4702-bc73-2fe828d8cdd0",
-      "1525115199973"
+      "1525115199973",
+      "a79b8bbf-0209-4846-b40a-6284e08593b6"
     ]
   },
   "presets": {
