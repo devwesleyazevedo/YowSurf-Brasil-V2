@@ -279,22 +279,6 @@
           "enable_gutter": true
         }
       },
-      "1499790633921": {
-        "type": "background-image-text",
-        "settings": {
-          "subtitle": "Impressive",
-          "title": "Large image with text box",
-          "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\/p>",
-          "button_label": "",
-          "button_link": "shopify:\/\/collections\/all",
-          "focal_point": "80% 0",
-          "color_border": "#cdb8ac",
-          "layout": "left",
-          "height": 750,
-          "framed": true,
-          "parallax": true
-        }
-      },
       "product-sections-template": {
         "type": "product-sections-template",
         "blocks": {
@@ -488,13 +472,13 @@
       "1525115199973": {
         "type": "blog-posts",
         "settings": {
-          "title": "From the journal",
-          "blog": "news",
+          "title": "ÚLTIMAS NOTÍCIAS",
+          "blog": "novidades",
           "post_limit": 3,
           "blog_show_tags": false,
           "blog_show_date": true,
           "blog_show_comments": false,
-          "blog_show_author": false,
+          "blog_show_author": true,
           "view_all": true,
           "blog_image_size": "wide",
           "divider": false
@@ -510,18 +494,6 @@
           "api_key": "",
           "show_button": true,
           "background_image_position": "center center"
-        }
-      },
-      "1525295772132": {
-        "type": "featured-collection",
-        "settings": {
-          "title": "Featured collection",
-          "home_featured_products": "eyewear",
-          "per_row": 5,
-          "rows": 1,
-          "mobile_scrollable": true,
-          "view_all": true,
-          "divider": false
         }
       },
       "1525912530555": {
@@ -726,21 +698,6 @@
           "recent_count": 5
         }
       },
-      "1611170395dc5e4332": {
-        "type": "judgeme_carousel_section",
-        "settings": {
-          "maxwidth": 1720
-        }
-      },
-      "1613155067bae53f29": {
-        "type": "instafeed",
-        "settings": {
-          "heading_font": "helvetica_n4",
-          "heading_size": 10,
-          "feed_width": 90,
-          "html_area": ""
-        }
-      },
       "a2f5ce35-acbc-4ee2-b010-f4410fda0658": {
         "type": "featured-collection",
         "settings": {
@@ -759,11 +716,7 @@
       "1498163293234",
       "1525912530555",
       "1499789718857",
-      "1525295772132",
       "a2f5ce35-acbc-4ee2-b010-f4410fda0658",
-      "1611170395dc5e4332",
-      "1613155067bae53f29",
-      "1499790633921",
       "16111386568c2d3def",
       "1525115199973",
       "1525118065355"
