@@ -484,18 +484,6 @@
           "divider": false
         }
       },
-      "1525118065355": {
-        "type": "map",
-        "disabled": true,
-        "settings": {
-          "map_title": "Our retail store",
-          "address": "<p>301 Front St W<br\/>Toronto, Canada<\/p><p>Mon - Fri, 8:30am - 10:30pm<br\/>Saturday, 8:30am - 10:30pm<br\/>Sunday, 8:30am - 10:30pm<\/p>",
-          "map_address": "301 Front St W, Toronto, ON M5V 2T6",
-          "api_key": "",
-          "show_button": true,
-          "background_image_position": "center center"
-        }
-      },
       "1525912530555": {
         "type": "promo-grid",
         "blocks": {
@@ -645,44 +633,6 @@
           "grid": "3"
         }
       },
-      "16111386568c2d3def": {
-        "type": "testimonials",
-        "disabled": true,
-        "blocks": {
-          "16111386568c2d3def-0": {
-            "type": "testimonial",
-            "settings": {
-              "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
-              "author": "Author's name"
-            }
-          },
-          "16111386568c2d3def-1": {
-            "type": "testimonial",
-            "settings": {
-              "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
-              "author": "Author's name"
-            }
-          },
-          "16111386568c2d3def-2": {
-            "type": "testimonial",
-            "settings": {
-              "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
-              "author": "Author's name"
-            }
-          }
-        },
-        "block_order": [
-          "16111386568c2d3def-0",
-          "16111386568c2d3def-1",
-          "16111386568c2d3def-2"
-        ],
-        "settings": {
-          "title": "Testimonials",
-          "align_text": "left",
-          "round_images": false,
-          "divider": false
-        }
-      },
       "product-recommendations": {
         "type": "product-recommendations",
         "settings": {
@@ -709,6 +659,46 @@
           "view_all": true,
           "divider": false
         }
+      },
+      "0a771dc9-dbd1-4702-bc73-2fe828d8cdd0": {
+        "type": "promo-grid",
+        "blocks": {
+          "e58356b7-0fdc-4046-9a6e-5b5f39449d41": {
+            "type": "product",
+            "settings": {
+              "product": "skate-simulador-de-surf-yow-arica-33-surfskate",
+              "subheading": "A SÉRIE SHAPER",
+              "heading": "PRANCHAS DE SURF YOW X CHRISTENSON",
+              "textarea": "Compre as novidades da nossa colaboração com Chris Christenson",
+              "link_label": "Saber mais",
+              "label": "Novo",
+              "enable_price": true,
+              "width": "50",
+              "text_size": 100,
+              "color_tint": "#000",
+              "color_tint_opacity": 0,
+              "framed": false
+            }
+          },
+          "17b2e4b4-c53c-45c2-ba8b-ba800ee94311": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/productfeature_christenson_720x_aca96c12-a45c-4dcc-906e-ea7f7f10e2cd.webp",
+              "link": "",
+              "width": "50"
+            }
+          }
+        },
+        "block_order": [
+          "e58356b7-0fdc-4046-9a6e-5b5f39449d41",
+          "17b2e4b4-c53c-45c2-ba8b-ba800ee94311"
+        ],
+        "settings": {
+          "full_width": false,
+          "gutter_size": 40,
+          "space_above": false,
+          "space_below": false
+        }
       }
     },
     "content_for_index": [
@@ -717,9 +707,8 @@
       "1525912530555",
       "1499789718857",
       "a2f5ce35-acbc-4ee2-b010-f4410fda0658",
-      "16111386568c2d3def",
-      "1525115199973",
-      "1525118065355"
+      "0a771dc9-dbd1-4702-bc73-2fe828d8cdd0",
+      "1525115199973"
     ]
   },
   "presets": {
