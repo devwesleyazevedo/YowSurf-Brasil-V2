@@ -734,7 +734,7 @@
           "bb38cc4b-e1aa-4d61-9d18-da4c4fc72fd1": {
             "type": "simple",
             "settings": {
-              "link": "",
+              "link": "shopify:\/\/collections\/serie-shaper",
               "text": "",
               "width": "33",
               "height": 300,
@@ -746,7 +746,7 @@
           "9d288ab5-1f25-4db9-8ea4-7a0127251b3e": {
             "type": "simple",
             "settings": {
-              "link": "",
+              "link": "shopify:\/\/collections\/serie-de-assinaturas",
               "text": "",
               "width": "33",
               "height": 300,
@@ -758,7 +758,7 @@
           "9592c01a-a695-4465-8ecb-45144e437b0c": {
             "type": "simple",
             "settings": {
-              "link": "",
+              "link": "shopify:\/\/collections\/os-gross",
               "text": "",
               "width": "33",
               "height": 300,
@@ -775,7 +775,7 @@
           "9592c01a-a695-4465-8ecb-45144e437b0c"
         ],
         "custom_css": [
-          ".flex-grid__item {width: 25% !important;}"
+          ".flex-grid__item {flex-basis: 25% !important;}"
         ],
         "settings": {
           "full_width": false,
