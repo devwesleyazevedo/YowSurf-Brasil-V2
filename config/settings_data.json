@@ -779,7 +779,8 @@
           "06933006-01a5-4f03-921c-f6ff69741254"
         ],
         "custom_css": [
-          ".flex-grid__item {flex-basis: 25% !important;}"
+          ".flex-grid__item {flex-basis: 25% !important;}",
+          ".promo-grid__container--tint:hover:before {opacity: 0.25; opacity: 1;}"
         ],
         "settings": {
           "full_width": false,
