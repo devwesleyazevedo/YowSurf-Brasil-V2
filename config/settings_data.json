@@ -712,7 +712,7 @@
           "focal_point": "center",
           "color_border": "#f4f4f4",
           "layout": "left",
-          "height": 550,
+          "height": 750,
           "framed": false,
           "parallax": true
         }
