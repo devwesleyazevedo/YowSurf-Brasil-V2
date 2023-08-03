@@ -716,6 +716,41 @@
           "framed": false,
           "parallax": true
         }
+      },
+      "3072d08e-5809-4bc1-ad4e-acf3da2467fd": {
+        "type": "text-and-image",
+        "settings": {
+          "image_width": 500,
+          "subtitle": "Improved",
+          "title": "Image with text",
+          "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.<\/p>",
+          "button_label": "Optional button",
+          "button_link": "",
+          "layout": "left",
+          "divider": false
+        }
+      },
+      "dcfb4c94-ab45-49bc-ab7d-8b256ff26958": {
+        "type": "promo-grid",
+        "blocks": {
+          "ba724f72-097a-47c2-a6ac-1296a3aa5b9d": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/yow-home_2400x_eb72ffd9-a331-4a9b-a64c-ae3f781c25c4.jpg",
+              "link": "",
+              "width": "100"
+            }
+          }
+        },
+        "block_order": [
+          "ba724f72-097a-47c2-a6ac-1296a3aa5b9d"
+        ],
+        "settings": {
+          "full_width": true,
+          "gutter_size": 20,
+          "space_above": false,
+          "space_below": false
+        }
       }
     },
     "content_for_index": [
@@ -726,7 +761,9 @@
       "a2f5ce35-acbc-4ee2-b010-f4410fda0658",
       "0a771dc9-dbd1-4702-bc73-2fe828d8cdd0",
       "1525115199973",
-      "a79b8bbf-0209-4846-b40a-6284e08593b6"
+      "a79b8bbf-0209-4846-b40a-6284e08593b6",
+      "3072d08e-5809-4bc1-ad4e-acf3da2467fd",
+      "dcfb4c94-ab45-49bc-ab7d-8b256ff26958"
     ]
   },
   "presets": {
