@@ -674,7 +674,7 @@
               "enable_price": true,
               "width": "50",
               "text_size": 100,
-              "color_tint": "#000",
+              "color_tint": "#000000",
               "color_tint_opacity": 0,
               "framed": false
             }
@@ -727,7 +727,7 @@
               "image": "shopify:\/\/shop_images\/1690817893_0.png",
               "width": "33",
               "height": 500,
-              "color_tint": "#000",
+              "color_tint": "#000000",
               "color_tint_opacity": 8,
               "framed": false
             }
@@ -740,7 +740,7 @@
               "image": "shopify:\/\/shop_images\/1690817909_0.png",
               "width": "33",
               "height": 500,
-              "color_tint": "#000",
+              "color_tint": "#000000",
               "color_tint_opacity": 8,
               "framed": false
             }
@@ -753,7 +753,7 @@
               "image": "shopify:\/\/shop_images\/1690817920_0.png",
               "width": "33",
               "height": 500,
-              "color_tint": "#000",
+              "color_tint": "#000000",
               "color_tint_opacity": 8,
               "framed": false
             }
@@ -766,8 +766,63 @@
               "image": "shopify:\/\/shop_images\/1690817935_0.png",
               "width": "33",
               "height": 500,
+              "color_tint": "#000000",
+              "color_tint_opacity": 8,
+              "framed": false
+            }
+          },
+          "7381350b-3381-4acd-830f-4423374d8510": {
+            "type": "image",
+            "settings": {
+              "link": "shopify:\/\/collections\/serie-de-assinaturas",
+              "width": "100"
+            }
+          },
+          "cd63f444-33af-43cf-87a1-2ccb63b464e3": {
+            "type": "banner",
+            "settings": {
+              "heading": "Banner promotion",
+              "text": "Add the details of your promotion in smaller text",
+              "link": "",
+              "label": "Shop now",
               "color_tint": "#000",
               "color_tint_opacity": 8,
+              "framed": false
+            }
+          },
+          "8d92620e-c39c-4b35-82c7-47c965518d8f": {
+            "type": "sale_collection",
+            "settings": {
+              "sale_collection": "",
+              "top_text": "Up to",
+              "middle_text": "50% off",
+              "bottom_text": "Select products",
+              "width": "100",
+              "color_tint": "#000",
+              "color_tint_opacity": 0,
+              "boxed": false,
+              "framed": false
+            }
+          },
+          "f593a88c-9654-4f24-adbc-c8644fc60263": {
+            "type": "advanced",
+            "settings": {
+              "subheading": "Limited time",
+              "heading": "Announce your promotion",
+              "textarea": "Include the smaller details of your promotion in text below the title.",
+              "cta_text1": "Shop This",
+              "cta_link1": "shopify:\/\/collections\/serie-de-assinaturas",
+              "cta_text2": "Shop All",
+              "cta_link2": "",
+              "image": "shopify:\/\/shop_images\/1690817920_0.png",
+              "video_url": "",
+              "width": "100",
+              "height": 500,
+              "text_size": 120,
+              "text_align": "vertical-center horizontal-center",
+              "focal_point": "center",
+              "color_accent": "rgba(0,0,0,0)",
+              "boxed": false,
               "framed": false
             }
           }
@@ -776,7 +831,11 @@
           "189f3c7b-a58e-4e40-ad5a-ea712fa5aa31-simple-1",
           "bb38cc4b-e1aa-4d61-9d18-da4c4fc72fd1",
           "9d288ab5-1f25-4db9-8ea4-7a0127251b3e",
-          "9592c01a-a695-4465-8ecb-45144e437b0c"
+          "9592c01a-a695-4465-8ecb-45144e437b0c",
+          "7381350b-3381-4acd-830f-4423374d8510",
+          "cd63f444-33af-43cf-87a1-2ccb63b464e3",
+          "8d92620e-c39c-4b35-82c7-47c965518d8f",
+          "f593a88c-9654-4f24-adbc-c8644fc60263"
         ],
         "custom_css": [
           ".flex-grid__item {flex-basis: 25% !important;}"
@@ -786,103 +845,6 @@
           "gutter_size": 20,
           "space_above": true,
           "space_below": true
-        }
-      },
-      "0f8ad6b4-e4ed-4bd0-a514-e5da0cfe4451": {
-        "type": "featured-collection",
-        "settings": {
-          "title": "Featured collection",
-          "home_featured_products": "",
-          "per_row": 4,
-          "rows": 1,
-          "mobile_scrollable": true,
-          "view_all": true,
-          "divider": false
-        }
-      },
-      "66239675-f797-4680-acd5-b9ff95608965": {
-        "type": "featured-collections",
-        "blocks": {
-          "66239675-f797-4680-acd5-b9ff95608965-collection-1": {
-            "type": "collection",
-            "settings": {
-              "collection": "",
-              "title": "",
-              "focal_point": "center center"
-            }
-          },
-          "66239675-f797-4680-acd5-b9ff95608965-collection-2": {
-            "type": "collection",
-            "settings": {
-              "collection": "",
-              "title": "",
-              "focal_point": "center center"
-            }
-          },
-          "66239675-f797-4680-acd5-b9ff95608965-collection-3": {
-            "type": "collection",
-            "settings": {
-              "collection": "",
-              "title": "",
-              "focal_point": "center center"
-            }
-          },
-          "66239675-f797-4680-acd5-b9ff95608965-collection-4": {
-            "type": "collection",
-            "settings": {
-              "collection": "",
-              "title": "",
-              "focal_point": "center center"
-            }
-          },
-          "66239675-f797-4680-acd5-b9ff95608965-collection-5": {
-            "type": "collection",
-            "settings": {
-              "collection": "",
-              "title": "",
-              "focal_point": "center center"
-            }
-          },
-          "66239675-f797-4680-acd5-b9ff95608965-collection-6": {
-            "type": "collection",
-            "settings": {
-              "collection": "",
-              "title": "",
-              "focal_point": "center center"
-            }
-          },
-          "66239675-f797-4680-acd5-b9ff95608965-collection-7": {
-            "type": "collection",
-            "settings": {
-              "collection": "",
-              "title": "",
-              "focal_point": "center center"
-            }
-          },
-          "66239675-f797-4680-acd5-b9ff95608965-collection-8": {
-            "type": "collection",
-            "settings": {
-              "collection": "",
-              "title": "",
-              "focal_point": "center center"
-            }
-          }
-        },
-        "block_order": [
-          "66239675-f797-4680-acd5-b9ff95608965-collection-1",
-          "66239675-f797-4680-acd5-b9ff95608965-collection-2",
-          "66239675-f797-4680-acd5-b9ff95608965-collection-3",
-          "66239675-f797-4680-acd5-b9ff95608965-collection-4",
-          "66239675-f797-4680-acd5-b9ff95608965-collection-5",
-          "66239675-f797-4680-acd5-b9ff95608965-collection-6",
-          "66239675-f797-4680-acd5-b9ff95608965-collection-7",
-          "66239675-f797-4680-acd5-b9ff95608965-collection-8"
-        ],
-        "settings": {
-          "title": "Collection list",
-          "divider": false,
-          "per_row": 4,
-          "enable_gutter": true
         }
       }
     },
@@ -895,9 +857,7 @@
       "a79b8bbf-0209-4846-b40a-6284e08593b6",
       "0a771dc9-dbd1-4702-bc73-2fe828d8cdd0",
       "1525115199973",
-      "189f3c7b-a58e-4e40-ad5a-ea712fa5aa31",
-      "0f8ad6b4-e4ed-4bd0-a514-e5da0cfe4451",
-      "66239675-f797-4680-acd5-b9ff95608965"
+      "189f3c7b-a58e-4e40-ad5a-ea712fa5aa31"
     ]
   },
   "presets": {
