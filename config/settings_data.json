@@ -520,25 +520,24 @@
       "collection-sidebar": {
         "type": "collection-sidebar",
         "blocks": {
-          "1524772785241": {
-            "type": "subcollections",
-            "settings": {
-              "enable_subsubcollections": false,
-              "enable_count": false,
-              "collapsed": false
-            }
-          },
           "1524772580942": {
             "type": "tags_all",
             "settings": {
-              "title": "Tags",
+              "title": "SÉRIE YOW",
+              "collapsed": false
+            }
+          },
+          "2e9a50ad-9f9c-4606-a282-a661ae6bc91d": {
+            "type": "tags_all",
+            "settings": {
+              "title": "TAMANHO",
               "collapsed": false
             }
           }
         },
         "block_order": [
-          "1524772785241",
-          "1524772580942"
+          "1524772580942",
+          "2e9a50ad-9f9c-4606-a282-a661ae6bc91d"
         ],
         "custom_css": [
 
