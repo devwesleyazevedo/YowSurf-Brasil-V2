@@ -464,12 +464,13 @@
       "newsletter-popup": {
         "type": "newsletter-popup",
         "settings": {
-          "mode": "disabled",
-          "popup_seconds": 5,
+          "mode": "enabled",
+          "popup_seconds": 20,
           "popup_days": 2,
-          "popup_title": "Sign up and save 15%!",
-          "popup_text": "<p>Sign up for our mailing list to receive discounts, exclusive offers, and invites for special events. First time customers will receive a 15% off discount code for their purchase!<\/p>",
-          "close_text": "No thanks",
+          "popup_title": "INSCREVA-SE E ECONOMIZE",
+          "popup_image": "shopify:\/\/shop_images\/1920x1080_yow_mainbanner_train_1080x_13606ebc-bce4-4ef6-999b-66de80d4f62e.webp",
+          "popup_text": "<p>Inscreva-se para receber ofertas especiais, brindes gratuitos e ofertas únicas na vida.<\/p>",
+          "close_text": "Não, obrigado",
           "enable_newsletter": true,
           "button_label": "Optional button",
           "button_link": "",
