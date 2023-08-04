@@ -292,7 +292,7 @@
       "save_html": "Economize {{ saved_amount }}",
       "collection_return": "Voltar à {{ collection }}",
       "next_product": "Próximo: {{ title }}",
-      "sale": "Promoção",
+      "sale": "Em Promoção",
       "sale_price": "Preço promocional",
       "regular_price": "Preço normal",
       "from_text_html": "A partir de {{ price }}",
