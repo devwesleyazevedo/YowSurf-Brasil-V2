@@ -525,14 +525,14 @@
             "settings": {
               "enable_subsubcollections": true,
               "enable_count": false,
-              "collapsed": false
+              "collapsed": true
             }
           },
           "1524772580942": {
             "type": "tags_all",
             "settings": {
               "title": "Tags",
-              "collapsed": false
+              "collapsed": true
             }
           }
         },
@@ -543,7 +543,7 @@
         "settings": {
           "enable_sidebar": true,
           "filter_style": "sidebar",
-          "tags_combine": false,
+          "tags_combine": true,
           "enable_sort": true
         }
       },
