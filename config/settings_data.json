@@ -105,7 +105,7 @@
             "type": "announcement",
             "settings": {
               "text": "Frete grátis para todo o Brasil",
-              "link_text": "em  pedidos acima de R$99,00",
+              "link_text": "em todos os pedidos acima de R$99,00",
               "link": "shopify:\/\/collections\/all"
             }
           }
