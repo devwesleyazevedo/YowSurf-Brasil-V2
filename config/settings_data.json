@@ -321,44 +321,23 @@
               "parallax": true
             }
           },
-          "74e34379-36a4-4530-88d4-dd927f3c592d": {
-            "type": "background-image-text",
+          "669711ae-d04e-43d5-bcdd-f7a3b4f43011": {
+            "type": "image-hero",
             "settings": {
-              "subtitle": "Impressive",
-              "title": "Large image with text box",
-              "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\/p>",
-              "button_label": "",
-              "button_link": "",
-              "alignment": "center",
-              "color_border": "#f4f4f4",
-              "layout": "right",
-              "height": 550,
-              "parallax": true
-            }
-          },
-          "product-text-columns": {
-            "type": "text-columns",
-            "settings": {
-              "title": "",
-              "align_text": "center",
-              "enable_image_1": true,
-              "image_width_1": 650,
-              "title_1": "Example title",
-              "text_1": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
-              "button_label_1": "",
-              "button_link_1": "",
-              "enable_image_2": true,
-              "image_width_2": 650,
-              "title_2": "Example title",
-              "text_2": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
-              "button_label_2": "",
-              "button_link_2": "",
-              "enable_image_3": true,
-              "image_width_3": 650,
-              "title_3": "Example title",
-              "text_3": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
-              "button_label_3": "",
-              "button_link_3": ""
+              "parallax": true,
+              "title": "No More\nFlat Days",
+              "title_size": 80,
+              "subheading": "Navegue em qualquer lugar com Yow",
+              "link": "",
+              "link_text": "VER PRODUTOS",
+              "link_2": "",
+              "link_text_2": "",
+              "color_accent": "#ffffff",
+              "text_align": "vertical-center horizontal-center",
+              "image": "shopify:\/\/shop_images\/1920x1080_yow_features_nomoreflatdays_2400x_900b099c-4530-4d85-b389-b85643e47bab.jpg",
+              "focal_point": "bottom center",
+              "section_height": "650px",
+              "mobile_height": "auto"
             }
           }
         },
@@ -367,8 +346,7 @@
           "product-text-and-image",
           "ed0863c2-8215-463c-8d18-087460bc44ae",
           "product-background-image-text",
-          "74e34379-36a4-4530-88d4-dd927f3c592d",
-          "product-text-columns"
+          "669711ae-d04e-43d5-bcdd-f7a3b4f43011"
         ],
         "settings": {
           "description_style": "default",
