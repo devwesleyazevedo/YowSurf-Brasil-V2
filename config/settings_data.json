@@ -122,7 +122,7 @@
           "main_menu_alignment": "left-center",
           "header_style": "sticky",
           "sticky_index": false,
-          "sticky_collection": false,
+          "sticky_collection": true,
           "announcement_compact": true,
           "announcement_above_header": true,
           "toolbar_menu": "",
