@@ -814,6 +814,15 @@
           "space_above": false,
           "space_below": false
         }
+      },
+      "9d3cdf02-6b20-42f6-a19b-0d149a43a3c1": {
+        "type": "newsletter",
+        "settings": {
+          "title": "JUNTE-SE À GRUPO",
+          "text": "<p>Inscreva-se para atualizações, lançamentos de produtos e muito mais.<\/p>",
+          "color_background": "#ffcd00",
+          "color_text": "#1c1d1d"
+        }
       }
     },
     "content_for_index": [
@@ -826,7 +835,8 @@
       "86ac5383-6b10-4818-b33b-075cca869c00",
       "a79b8bbf-0209-4846-b40a-6284e08593b6",
       "0a771dc9-dbd1-4702-bc73-2fe828d8cdd0",
-      "1525115199973"
+      "1525115199973",
+      "9d3cdf02-6b20-42f6-a19b-0d149a43a3c1"
     ]
   },
   "presets": {
