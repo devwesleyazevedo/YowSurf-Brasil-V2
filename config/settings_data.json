@@ -464,7 +464,7 @@
       "newsletter-popup": {
         "type": "newsletter-popup",
         "settings": {
-          "mode": "enabled",
+          "mode": "disabled",
           "popup_seconds": 10,
           "popup_days": 2,
           "popup_title": "INSCREVA-SE E ECONOMIZE",
