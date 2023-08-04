@@ -520,15 +520,7 @@
       "collection-sidebar": {
         "type": "collection-sidebar",
         "blocks": {
-          "1524772785241": {
-            "type": "subcollections",
-            "settings": {
-              "enable_subsubcollections": true,
-              "enable_count": false,
-              "collapsed": false
-            }
-          },
-          "1524772580942": {
+          "e8e6b1e2-8197-4920-8707-005648268c61": {
             "type": "tags_all",
             "settings": {
               "title": "Tags",
@@ -537,8 +529,7 @@
           }
         },
         "block_order": [
-          "1524772785241",
-          "1524772580942"
+          "e8e6b1e2-8197-4920-8707-005648268c61"
         ],
         "custom_css": [
 
@@ -2786,8 +2777,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".medium-up--three-quarters {left: 0; width: 100%;}",
-      "@media only screen and (min-width: 769px){.grid__item--sidebar {overflow-y: none !important;}}"
+      ".medium-up--three-quarters {left: 0; width: 100%;}"
     ]
   }
 }
