@@ -187,7 +187,8 @@
           ".image-wrap img {max-width: 180px;}",
           ".site-footer {background-color: #262525; color: #fff;}",
           ".site-footer * {color: #fff;}",
-          "input {border: none; border-bottom: 1px solid #fff; background: transparent; color: #fff;}"
+          "input {border: none; border-bottom: 1px solid #fff; background: transparent; color: #fff;}",
+          "input::placeholder {color: #fff;}"
         ],
         "settings": {
           "show_locale_selector": false,
