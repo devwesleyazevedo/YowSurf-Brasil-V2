@@ -352,60 +352,41 @@
               "subtitle": "ENTÃO COMEÇA",
               "title": "O NASCIMENTO DE YOW",
               "text": "<p>A nossa história começa em 2014 quando o engenheiro andaluz <em>Juanjo Almansa<\/em> , não muito convencido pelos sistemas de surfskate existentes, decide desenhar a sua própria versão de um surfskate para ajudar a sua filha a treinar o surf no interior. Ele então apresenta o protótipo aos <em>irmãos Iraola<\/em> - pioneiros na construção de skates de picolé na Europa.<\/p><p>Após um ano e meio de intenso desenvolvimento, YOW, que significa <em>“Your Own Wave”<\/em> , começou. Desde então, a marca expandiu-se por todo o mundo tornando-se uma das marcas de surfskate mais reconhecidas, ajudando as pessoas a encontrar ondas, onde quer que estejam. <\/p>",
-              "button_label": "Optional button",
+              "button_label": "",
               "button_link": "",
               "layout": "left"
             }
           },
-          "page-text-columns": {
-            "type": "text-columns",
+          "907f6e5e-4dea-4eb5-ab0a-62252bc1a5a8": {
+            "type": "text-and-image",
             "settings": {
-              "title": "",
-              "align_text": "center",
-              "enable_image_1": true,
-              "image_width_1": 650,
-              "title_1": "Example title",
-              "text_1": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
-              "button_label_1": "",
-              "button_link_1": "",
-              "enable_image_2": true,
-              "image_width_2": 650,
-              "title_2": "Example title",
-              "text_2": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
-              "button_label_2": "",
-              "button_link_2": "",
-              "enable_image_3": true,
-              "image_width_3": 650,
-              "title_3": "Example title",
-              "text_3": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
-              "button_label_3": "",
-              "button_link_3": ""
-            }
-          },
-          "page-background-image-text": {
-            "type": "background-image-text",
-            "settings": {
-              "subtitle": "Impressive",
-              "title": "Large image with text box",
-              "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\/p>",
+              "image": "shopify:\/\/shop_images\/1080x1080_yow-team_540x_7ee4cd5b-9eae-427b-a0f9-130a47d5ffb3.jpg",
+              "image_width": 500,
+              "subtitle": "UMA EVOLUÇÃO CONSTANTE",
+              "title": "NOSSAS CRENÇAS",
+              "text": "<p>A YOW está e sempre estará em constante evolução, adaptando-se ao mundo em constante mudança em que vivemos, mantendo uma série de valores que representam o cerne da nossa empresa. <\/p><p>Estamos empenhados em nos tornar mais do que apenas uma marca de surfskate. Queremos construir uma comunidade e inspirar as gerações atuais e futuras enquanto caminhamos para uma forma de fazer negócios mais empática, socialmente responsável e ecológica, mantendo-nos fiéis a nós mesmos. <\/p>",
               "button_label": "",
               "button_link": "",
-              "alignment": "center",
-              "color_border": "#f4f4f4",
-              "layout": "right",
-              "height": 550,
-              "parallax": true
+              "layout": "right"
             }
           },
-          "page-featured-collection": {
-            "type": "featured-collection",
+          "33fcd54a-c6d2-4ee3-a757-43205ff277af": {
+            "type": "image-hero",
             "settings": {
-              "title": "Featured collection",
-              "collection": "",
-              "per_row": 4,
-              "rows": 1,
-              "mobile_scrollable": true,
-              "view_all": true
+              "parallax": true,
+              "title": "ENCONTRE ONDAS, ONDE QUER QUE ESTEJAM.",
+              "title_size": 40,
+              "subheading": "",
+              "link": "",
+              "link_text": "",
+              "link_2": "",
+              "link_text_2": "",
+              "color_accent": "rgba(0,0,0,0)",
+              "text_align": "vertical-center horizontal-center",
+              "image": "shopify:\/\/shop_images\/1920x1080_yow_mainbanner_lone_2400x_f3b84fcb-abf2-499b-852b-4b628e4782ef.jpg",
+              "focal_point": "center center",
+              "section_height": "550px",
+              "mobile_height": "auto"
             }
           }
         },
@@ -413,9 +394,8 @@
           "page-image-hero",
           "page-rich-text",
           "a2389fa7-9bac-47c6-a695-e1bb04b4ad97",
-          "page-text-columns",
-          "page-background-image-text",
-          "page-featured-collection"
+          "907f6e5e-4dea-4eb5-ab0a-62252bc1a5a8",
+          "33fcd54a-c6d2-4ee3-a757-43205ff277af"
         ],
         "settings": {
           "page_title_enable": false,
