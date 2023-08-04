@@ -184,6 +184,7 @@
           "1494301487048"
         ],
         "custom_css": [
+          ".image-wrap {background: transparent;}",
           ".image-wrap img {max-width: 180px;}",
           ".site-footer {background-color: #262525; color: #fff;}",
           ".site-footer * {color: #fff;}",
