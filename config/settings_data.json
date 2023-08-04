@@ -137,9 +137,9 @@
             "type": "custom",
             "settings": {
               "show_footer_title": true,
-              "title": "Custom text",
+              "title": "",
               "image": "shopify:\/\/shop_images\/logo.webp",
-              "text": "<p>Add your own custom text here.<\/p>",
+              "text": "",
               "container_width": 25
             }
           },
@@ -182,6 +182,9 @@
           "9245eb21-4de7-4f92-bbaf-b3c42ef9a479",
           "1494292487693",
           "1494301487048"
+        ],
+        "custom_css": [
+          ".image-wrap img {max-width: 180px;}"
         ],
         "settings": {
           "show_locale_selector": false,
