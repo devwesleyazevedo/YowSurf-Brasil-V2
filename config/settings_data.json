@@ -694,6 +694,9 @@
           "footer-promotions-2",
           "3abf7455-cb1f-47ec-b93b-8dea62d40520"
         ],
+        "custom_css": [
+          ".index-section {display: none}"
+        ],
         "settings": {
           "hide_homepage": true,
           "image_size": "natural"
