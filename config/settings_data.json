@@ -308,6 +308,22 @@
           "product-background-image-text": {
             "type": "background-image-text",
             "settings": {
+              "subtitle": "ONDE SÃO FEITOS?",
+              "title": "FEITO POR SKATISTAS",
+              "text": "<p>Todos os Yow Surfskates são fabricados no País Basco, na Espanha, por nosso grande grupo de skatistas dedicados.Todos os produtos Yow foram exaustivamente testados para resistir a qualquer coisa que você possa jogar neles.<\/p>",
+              "button_label": "Saber mais",
+              "button_link": "",
+              "image": "shopify:\/\/shop_images\/1920x1080_yow_grop_air_1500x_5cd9ce37-32fb-4d9a-af2b-59e87ed1ca4a.webp",
+              "alignment": "center",
+              "color_border": "#f4f4f4",
+              "layout": "right",
+              "height": 550,
+              "parallax": true
+            }
+          },
+          "74e34379-36a4-4530-88d4-dd927f3c592d": {
+            "type": "background-image-text",
+            "settings": {
               "subtitle": "Impressive",
               "title": "Large image with text box",
               "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\/p>",
@@ -351,6 +367,7 @@
           "product-text-and-image",
           "ed0863c2-8215-463c-8d18-087460bc44ae",
           "product-background-image-text",
+          "74e34379-36a4-4530-88d4-dd927f3c592d",
           "product-text-columns"
         ],
         "settings": {
