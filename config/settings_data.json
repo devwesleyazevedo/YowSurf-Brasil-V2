@@ -616,8 +616,8 @@
         "type": "product-recommendations",
         "settings": {
           "show_product_recommendations": true,
-          "product_recommendations_heading": "You may also like",
-          "related_count": 5
+          "product_recommendations_heading": "VOCÊ PODE GOSTAR",
+          "related_count": 4
         }
       },
       "recently-viewed": {
