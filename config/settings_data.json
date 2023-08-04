@@ -430,6 +430,21 @@
               "enable_gutter": false,
               "enable_zoom": false
             }
+          },
+          "e5a0cbfb-0235-4390-9bf1-b56350cdb60b": {
+            "type": "image-row",
+            "settings": {
+              "image_1": "shopify:\/\/shop_images\/1920x1080_yow_grop_girlbowl_1500x_4b928314-df4e-4039-a229-bc3867980ccb.webp",
+              "image_1_link": "",
+              "image_2": "shopify:\/\/shop_images\/1920x1080_yow_grop_chillbowl_1080x_1ad9f7e9-adae-48de-a6b0-b2b29e5836d5.webp",
+              "image_2_link": "",
+              "image_3": "shopify:\/\/shop_images\/1920x1080_yow_grop_air_1500x_5cd9ce37-32fb-4d9a-af2b-59e87ed1ca4a.webp",
+              "image_3_link": "",
+              "image_4": "shopify:\/\/shop_images\/1920x1080_yow_mainbanner_train_1080x_13606ebc-bce4-4ef6-999b-66de80d4f62e.webp",
+              "image_4_link": "",
+              "enable_gutter": false,
+              "enable_zoom": false
+            }
           }
         },
         "block_order": [
@@ -440,7 +455,8 @@
           "33fcd54a-c6d2-4ee3-a757-43205ff277af",
           "e1d5a5fb-000e-4681-958d-6566ed67c283",
           "ba7fbd68-528d-4ec9-aac3-fd9d771529ae",
-          "13f418df-960e-4f10-b888-f613d6117ae3"
+          "13f418df-960e-4f10-b888-f613d6117ae3",
+          "e5a0cbfb-0235-4390-9bf1-b56350cdb60b"
         ],
         "settings": {
           "page_title_enable": false,
