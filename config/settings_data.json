@@ -53,6 +53,7 @@
     "enable_payment_button": true,
     "inventory_enable": true,
     "inventory_transfers_enable": false,
+    "product_save_amount": false,
     "product_save_type": "percent",
     "product_zoom_enable": false,
     "quick_shop_enable": false,
@@ -760,7 +761,7 @@
           "home_featured_products": "todas",
           "per_row": 4,
           "rows": 2,
-          "mobile_scrollable": true,
+          "mobile_scrollable": false,
           "view_all": true,
           "divider": false
         }
