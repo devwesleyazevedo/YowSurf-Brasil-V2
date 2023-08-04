@@ -703,7 +703,7 @@
         "type": "featured-collection",
         "settings": {
           "title": "CONFIRA A GAMA COMPLETA",
-          "home_featured_products": "new-collection",
+          "home_featured_products": "todas",
           "per_row": 4,
           "rows": 2,
           "mobile_scrollable": true,
