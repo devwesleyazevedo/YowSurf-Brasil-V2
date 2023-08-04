@@ -2786,8 +2786,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".medium-up--three-quarters {left: 0; width: 100%;}",
-      "@media only screen and (min-width: 769px){.grid__item--sidebar {overflow-y: none !important;}}"
+      ".medium-up--three-quarters {left: 0; width: 100%;}"
     ]
   }
 }
