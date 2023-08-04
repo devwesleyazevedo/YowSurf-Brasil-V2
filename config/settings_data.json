@@ -354,7 +354,7 @@
           "description_style": "default",
           "social_enable": true,
           "image_position": "left",
-          "image_size": "small",
+          "image_size": "medium",
           "thumbnail_position": "below",
           "thumbnail_arrows": false,
           "enable_video_looping": true,
