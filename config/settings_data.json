@@ -2832,7 +2832,8 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".medium-up--three-quarters {left: 0; width: 100%;}"
+      ".medium-up--three-quarters {left: 0; width: 100%;}",
+      ".grid-product__tag--sale {background-color: #ffcd00; color: #000; font-weight: 600; border-radius: 20px; max-width: 112px; display: block; top: -10px; text-transform: uppercase; font-size: 11px; text-align: center; padding: 10px;}"
     ]
   }
 }
