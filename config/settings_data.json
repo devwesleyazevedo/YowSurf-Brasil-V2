@@ -163,8 +163,8 @@
             "type": "newsletter",
             "settings": {
               "show_footer_title": true,
-              "title": "Sign up and save",
-              "text": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.<\/p>",
+              "title": "INSCREVA-SE E ECONOMIZE",
+              "text": "<p>Inscreva-se para receber ofertas especiais, brindes gratuitos e ofertas únicas na vida.<\/p>",
               "container_width": 25
             }
           },
@@ -186,7 +186,7 @@
         "custom_css": [
           ".image-wrap img {max-width: 180px;}",
           ".site-footer {background-color: #262525; color: #fff;}",
-          ".site-footer *{color: #fff;}"
+          ".site-footer * {color: #fff;}"
         ],
         "settings": {
           "show_locale_selector": false,
