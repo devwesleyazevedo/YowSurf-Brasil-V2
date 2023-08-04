@@ -337,8 +337,8 @@
           "page-rich-text": {
             "type": "rich-text",
             "settings": {
-              "title": "Rich text block",
-              "text": "<p>Use this section for any descriptive text you need to fill out your pages or to add introductory headings between other blocks.<\/p>",
+              "title": "",
+              "text": "<p>O YOW nasceu como uma alternativa de surf para dias planos e como uma ferramenta para disponibilizar o surf para surfistas sem litoral.Após anos de desenvolvimento, criamos um sistema que traz a sensação mais próxima do surf em terra.Com YOW você pode surfar em qualquer lugar do mundo.Bombeie, esculpa e rasgue as ruas com YOW.<\/p>",
               "align_text": "center",
               "narrow_column": true,
               "enlarge_text": true
