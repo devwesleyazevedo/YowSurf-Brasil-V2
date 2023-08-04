@@ -628,11 +628,11 @@
             "type": "banner",
             "settings": {
               "promo_collection": "shop-all",
-              "heading": "Semi-annual winter sale",
-              "text": "For a limited time the entire store is on sale!",
-              "link": "shopify:\/\/collections\/all",
-              "label": "Shop now",
-              "color_tint": "#e95454",
+              "heading": "FRETE GRÁTIS",
+              "text": "com pedidos acima de R$99,00",
+              "link": "",
+              "label": "",
+              "color_tint": "#ff4f33",
               "color_tint_opacity": 10,
               "framed": false
             }
