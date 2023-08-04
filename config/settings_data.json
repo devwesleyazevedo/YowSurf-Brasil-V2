@@ -441,13 +441,13 @@
           "1525912530555-0": {
             "type": "advanced",
             "settings": {
-              "subheading": "Limited time",
-              "heading": "promotion",
-              "textarea": "All jewelry items on sale!",
-              "cta_text1": "Shop This",
-              "cta_link1": "shopify:\/\/collections\/jewelry",
-              "cta_text2": "Shop All",
-              "cta_link2": "https:\/\/afx.life\/collections\/all",
+              "subheading": "O FAVORITO DO POVO",
+              "heading": "O TUBO 32\"",
+              "textarea": "",
+              "cta_text1": "Compre agora",
+              "cta_link1": "shopify:\/\/collections\/all",
+              "cta_text2": "",
+              "cta_link2": "",
               "image": "shopify:\/\/shop_images\/1080x1080_yow_promo_pipe_720x_8a0aadbc-eff3-4201-940b-27fdf7631836.jpg",
               "video_url": "",
               "width": "50",
@@ -455,7 +455,7 @@
               "text_size": 100,
               "text_align": "vertical-bottom horizontal-left",
               "focal_point": "center",
-              "color_accent": "rgba(0,0,0,0)",
+              "color_accent": "#000000",
               "boxed": false,
               "framed": false
             }
@@ -463,13 +463,13 @@
           "1525912530555-1": {
             "type": "advanced",
             "settings": {
-              "subheading": "Limited time",
-              "heading": "promotion",
-              "textarea": "All beauty items on sale!",
-              "cta_text1": "Shop This",
+              "subheading": "A SÉRIE DE ASSINATURAS",
+              "heading": "GABRIEL MEDINA",
+              "textarea": "3 x Campeão Mundial da WSL",
+              "cta_text1": "Compre isso",
               "cta_link1": "shopify:\/\/collections\/self-care",
-              "cta_text2": "Shop All",
-              "cta_link2": "https:\/\/afx.life\/collections\/all",
+              "cta_text2": "",
+              "cta_link2": "",
               "image": "shopify:\/\/shop_images\/1080x1080_yow_promo_right_medina_720x_c4f69546-d8fe-4011-8b31-4df244f7d89d.webp",
               "video_url": "",
               "width": "50",
@@ -477,7 +477,7 @@
               "text_size": 100,
               "text_align": "vertical-center horizontal-center",
               "focal_point": "center",
-              "color_accent": "rgba(0,0,0,0)",
+              "color_accent": "#000000",
               "boxed": false,
               "framed": false
             }
