@@ -53,7 +53,7 @@
     "enable_payment_button": true,
     "inventory_enable": true,
     "inventory_transfers_enable": false,
-    "product_save_amount": false,
+    "product_save_amount": true,
     "product_save_type": "percent",
     "product_zoom_enable": false,
     "quick_shop_enable": false,
