@@ -265,15 +265,18 @@
       "product-sections-template": {
         "type": "product-sections-template",
         "blocks": {
-          "product-image-row": {
-            "type": "image-row",
+          "product-hero-video": {
+            "type": "hero-video",
             "settings": {
-              "image_1_link": "",
-              "image_2_link": "",
-              "image_3_link": "",
-              "image_4_link": "",
-              "enable_gutter": false,
-              "enable_zoom": true
+              "title": "YOW X MF\nFORA AGORA",
+              "title_size": 80,
+              "subheading": "PEGUE O SEU HOJE.",
+              "link_text": "COMPRE AGORA",
+              "link": "shopify:\/\/collections\/all",
+              "text_align": "vertical-bottom horizontal-left",
+              "video_url": "https:\/\/www.youtube.com\/watch?v=46lAMVVtigk",
+              "section_height": "650px",
+              "mobile_height": "auto"
             }
           },
           "product-text-and-image": {
@@ -327,28 +330,13 @@
               "button_label_3": "",
               "button_link_3": ""
             }
-          },
-          "product-hero-video": {
-            "type": "hero-video",
-            "settings": {
-              "title": "Bring your\nbrand to life.",
-              "title_size": 80,
-              "subheading": "Seamless hero videos",
-              "link_text": "Optional button",
-              "link": "",
-              "text_align": "vertical-bottom horizontal-left",
-              "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-              "section_height": "650px",
-              "mobile_height": "auto"
-            }
           }
         },
         "block_order": [
-          "product-image-row",
+          "product-hero-video",
           "product-text-and-image",
           "product-background-image-text",
-          "product-text-columns",
-          "product-hero-video"
+          "product-text-columns"
         ],
         "settings": {
           "description_style": "default",
