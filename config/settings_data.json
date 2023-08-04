@@ -78,6 +78,7 @@
     "share_twitter": true,
     "share_pinterest": true,
     "favicon": "shopify:\/\/shop_images\/favicon_symbol_2x_32x32_f8c333b8-2778-44dd-91ff-17fa13a55030.webp",
+    "show_breadcrumbs": true,
     "checkout_logo_image": "shopify:\/\/shop_images\/imageedit_9_9978243905.png",
     "checkout_logo_position": "left",
     "checkout_logo_size": "small",
