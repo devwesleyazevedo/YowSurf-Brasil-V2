@@ -388,6 +388,33 @@
               "section_height": "550px",
               "mobile_height": "auto"
             }
+          },
+          "e1d5a5fb-000e-4681-958d-6566ed67c283": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/1080x1080_yow-meraki_540x_e8e2d7d1-1b86-4ca0-99ba-4f470e01b64f.webp",
+              "image_width": 500,
+              "subtitle": "NÓS AMAMOS PATINAR",
+              "title": "O SISTEMA MERAKI SURFSKATE",
+              "text": "<p>O sistema de surfskate YOW Meraki é o culminar dos últimos 5 anos de pesquisa e desenvolvimento. Um design mais simplificado e reforçado junto com nosso sistema de mola patenteado o torna uma das configurações de surfskate mais exclusivas do mundo. O novo sistema agora está unificado aos nossos próprios caminhões de skate, tornando-o mais estável sem sacrificar o fluxo de surf pelo qual nosso sistema é bem conhecido.<\/p><p><em><strong>Leve seu surfskating para o próximo nível.<\/strong><\/em><\/p>",
+              "button_label": "",
+              "button_link": "",
+              "layout": "left"
+            }
+          },
+          "ba7fbd68-528d-4ec9-aac3-fd9d771529ae": {
+            "type": "hero-video",
+            "settings": {
+              "title": "Bring your\nbrand to life.",
+              "title_size": 80,
+              "subheading": "",
+              "link_text": "",
+              "link": "",
+              "text_align": "vertical-center horizontal-center",
+              "video_url": "https:\/\/www.youtube.com\/watch?v=rBXsHiKu_28",
+              "section_height": "650px",
+              "mobile_height": "auto"
+            }
           }
         },
         "block_order": [
@@ -395,7 +422,9 @@
           "page-rich-text",
           "a2389fa7-9bac-47c6-a695-e1bb04b4ad97",
           "907f6e5e-4dea-4eb5-ab0a-62252bc1a5a8",
-          "33fcd54a-c6d2-4ee3-a757-43205ff277af"
+          "33fcd54a-c6d2-4ee3-a757-43205ff277af",
+          "e1d5a5fb-000e-4681-958d-6566ed67c283",
+          "ba7fbd68-528d-4ec9-aac3-fd9d771529ae"
         ],
         "settings": {
           "page_title_enable": false,
@@ -2721,5 +2750,10 @@
         "1526481405629"
       ]
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+
+    ]
   }
 }
