@@ -133,12 +133,30 @@
       "footer": {
         "type": "footer",
         "blocks": {
+          "8b4fa9b3-e67f-45ed-b1a0-df85802afa45": {
+            "type": "custom",
+            "settings": {
+              "show_footer_title": true,
+              "title": "Custom text",
+              "image": "shopify:\/\/shop_images\/logo.webp",
+              "text": "<p>Add your own custom text here.<\/p>",
+              "container_width": 25
+            }
+          },
           "1494301487049": {
             "type": "menu",
             "settings": {
               "show_footer_title": true,
+              "menu": "menu-de-rodap-2",
+              "container_width": 25
+            }
+          },
+          "9245eb21-4de7-4f92-bbaf-b3c42ef9a479": {
+            "type": "menu",
+            "settings": {
+              "show_footer_title": true,
               "menu": "footer",
-              "container_width": 33
+              "container_width": 25
             }
           },
           "1494292487693": {
@@ -147,7 +165,7 @@
               "show_footer_title": true,
               "title": "Sign up and save",
               "text": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.<\/p>",
-              "container_width": 33
+              "container_width": 25
             }
           },
           "1494301487048": {
@@ -159,7 +177,9 @@
           }
         },
         "block_order": [
+          "8b4fa9b3-e67f-45ed-b1a0-df85802afa45",
           "1494301487049",
+          "9245eb21-4de7-4f92-bbaf-b3c42ef9a479",
           "1494292487693",
           "1494301487048"
         ],
