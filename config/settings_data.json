@@ -604,7 +604,7 @@
           "title": "CONFIRA A GAMA COMPLETA",
           "home_featured_products": "new-collection",
           "per_row": 4,
-          "rows": 1,
+          "rows": 2,
           "mobile_scrollable": true,
           "view_all": true,
           "divider": false
