@@ -344,6 +344,19 @@
               "enlarge_text": true
             }
           },
+          "a2389fa7-9bac-47c6-a695-e1bb04b4ad97": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/1080x1080_yow-stickers_540x_d2dcfdc0-bde3-451c-b2e1-d1df480ae60d.webp",
+              "image_width": 500,
+              "subtitle": "ENTÃO COMEÇA",
+              "title": "O NASCIMENTO DE YOW",
+              "text": "<p>A nossa história começa em 2014 quando o engenheiro andaluz <em>Juanjo Almansa<\/em> , não muito convencido pelos sistemas de surfskate existentes, decide desenhar a sua própria versão de um surfskate para ajudar a sua filha a treinar o surf no interior. Ele então apresenta o protótipo aos <em>irmãos Iraola<\/em> - pioneiros na construção de skates de picolé na Europa.<\/p><p>Após um ano e meio de intenso desenvolvimento, YOW, que significa <em>“Your Own Wave”<\/em> , começou. Desde então, a marca expandiu-se por todo o mundo tornando-se uma das marcas de surfskate mais reconhecidas, ajudando as pessoas a encontrar ondas, onde quer que estejam. <\/p>",
+              "button_label": "Optional button",
+              "button_link": "",
+              "layout": "left"
+            }
+          },
           "page-text-columns": {
             "type": "text-columns",
             "settings": {
@@ -399,6 +412,7 @@
         "block_order": [
           "page-image-hero",
           "page-rich-text",
+          "a2389fa7-9bac-47c6-a695-e1bb04b4ad97",
           "page-text-columns",
           "page-background-image-text",
           "page-featured-collection"
