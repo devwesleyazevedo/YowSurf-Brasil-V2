@@ -540,6 +540,9 @@
           "1524772785241",
           "1524772580942"
         ],
+        "custom_css": [
+          ".grid__item--sidebar {overflow-y: scroll;}"
+        ],
         "settings": {
           "enable_sidebar": true,
           "filter_style": "sidebar",
