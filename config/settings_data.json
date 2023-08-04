@@ -632,8 +632,8 @@
               "text": "com pedidos acima de R$99,00",
               "link": "",
               "label": "",
-              "color_tint": "#ff4f33",
-              "color_tint_opacity": 10,
+              "color_tint": "#ffcd00",
+              "color_tint_opacity": 20,
               "framed": false
             }
           }
