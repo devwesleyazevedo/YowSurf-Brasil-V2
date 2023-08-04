@@ -953,6 +953,26 @@
           "color_background": "#ffcd00",
           "color_text": "#1c1d1d"
         }
+      },
+      "page-contact-template": {
+        "type": "page-contact-template",
+        "blocks": {
+          "page-contact-template-0": {
+            "type": "contact-form",
+            "settings": {
+              "title": "",
+              "show_phone": false,
+              "narrow_column": true
+            }
+          }
+        },
+        "block_order": [
+          "page-contact-template-0"
+        ],
+        "settings": {
+          "page_title_enable": true,
+          "page_content_enable": true
+        }
       }
     },
     "content_for_index": [
@@ -2786,7 +2806,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-
+      ".medium-up--three-quarters {left: 0; width: 100%;}"
     ]
   }
 }
