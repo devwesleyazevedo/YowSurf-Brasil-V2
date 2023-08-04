@@ -532,7 +532,7 @@
           "e8e6b1e2-8197-4920-8707-005648268c61"
         ],
         "custom_css": [
-          "* {overflow-y: none;}"
+          "#CollectionAjaxContent {overflow-y: none !important;}"
         ],
         "settings": {
           "enable_sidebar": true,
