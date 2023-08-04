@@ -8449,7 +8449,7 @@ $collectionHeroSmall: 250px;
     position: sticky;
     top: 10px; // updated with sticky header JS
     max-height: 90vh;
-    overflow-y: scroll;
+    overflow-y: none !important;
   }
 }
 
