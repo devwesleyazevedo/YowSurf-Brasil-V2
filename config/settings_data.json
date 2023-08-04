@@ -230,6 +230,7 @@
       "article-template": {
         "type": "article-template",
         "settings": {
+          "image_hero": false,
           "blog_show_tags": true,
           "blog_show_date": true,
           "blog_show_comments": true,
@@ -257,7 +258,8 @@
           "blog_show_date": true,
           "blog_show_comments": true,
           "blog_show_author": false,
-          "blog_image_size": "wide"
+          "blog_show_excerpt": true,
+          "blog_image_size": "square"
         }
       },
       "product-sections-template": {
@@ -695,7 +697,7 @@
           "3abf7455-cb1f-47ec-b93b-8dea62d40520"
         ],
         "custom_css": [
-          ".index-section {display: none}"
+          ".index-section {display: none;}"
         ],
         "settings": {
           "hide_homepage": true,
