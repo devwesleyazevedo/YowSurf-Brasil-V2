@@ -600,7 +600,7 @@
       "1525115199973": {
         "type": "blog-posts",
         "settings": {
-          "title": "ÚLTIMAS NOTÍCIAS",
+          "title": "novidades yow",
           "blog": "novidades",
           "post_limit": 3,
           "blog_show_tags": false,
@@ -773,10 +773,10 @@
           "e58356b7-0fdc-4046-9a6e-5b5f39449d41": {
             "type": "product",
             "settings": {
-              "product": "skate-simulador-de-surf-yow-arica-33-surfskate",
+              "product": "skate-simulador-de-surf-yow-x-pukas-flame-33-original",
               "subheading": "A SÉRIE SHAPER",
-              "heading": "PRANCHAS DE SURF YOW X CHRISTENSON",
-              "textarea": "Compre as novidades da nossa colaboração com Chris Christenson",
+              "heading": "YOW X PUKAS",
+              "textarea": "Compre as novidades da nossa colaboração com a Pukas dos Países Bascos",
               "link_label": "Saber mais",
               "label": "Novo",
               "enable_price": true,
