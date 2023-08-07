@@ -78,7 +78,7 @@
     "cart_icon": "cart",
     "cart_additional_buttons": false,
     "cart_notes_enable": false,
-    "cart_terms_conditions_enable": true,
+    "cart_terms_conditions_enable": false,
     "cart_terms_conditions_link": "shopify:\/\/pages\/termos-de-servico",
     "social_facebook_link": "",
     "social_pinterest_link": "",
