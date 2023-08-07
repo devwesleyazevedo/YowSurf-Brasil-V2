@@ -395,7 +395,7 @@
             "type": "rich-text",
             "settings": {
               "title": "",
-              "text": "<p>O YOW nasceu como uma alternativa de surf para dias planos e como uma ferramenta para disponibilizar o surf para surfistas sem litoral.Após anos de desenvolvimento, criamos um sistema que traz a sensação mais próxima do surf em terra.Com YOW você pode surfar em qualquer lugar do mundo.Bombeie, esculpa e rasgue as ruas com YOW.<\/p>",
+              "text": "<p>O YOW nasceu como uma alternativa de surf para dias sem onda e como uma ferramenta para disponibilizar o surf para surfistas sem litoral. Após anos de desenvolvimento, criamos um sistema que traz a sensação mais próxima do surf em terra. Com YOW você pode surfar em qualquer lugar do mundo. Cave e rasgue as ruas com YOW.<\/p>",
               "align_text": "center",
               "narrow_column": true,
               "enlarge_text": true
@@ -406,9 +406,9 @@
             "settings": {
               "image": "shopify:\/\/shop_images\/1080x1080_yow-stickers_540x_d2dcfdc0-bde3-451c-b2e1-d1df480ae60d.webp",
               "image_width": 500,
-              "subtitle": "ENTÃO COMEÇA",
-              "title": "O NASCIMENTO DE YOW",
-              "text": "<p>A nossa história começa em 2014 quando o engenheiro andaluz <em>Juanjo Almansa<\/em> , não muito convencido pelos sistemas de surfskate existentes, decide desenhar a sua própria versão de um surfskate para ajudar a sua filha a treinar o surf no interior. Ele então apresenta o protótipo aos <em>irmãos Iraola<\/em> - pioneiros na construção de skates de picolé na Europa.<\/p><p>Após um ano e meio de intenso desenvolvimento, YOW, que significa <em>“Your Own Wave”<\/em> , começou. Desde então, a marca expandiu-se por todo o mundo tornando-se uma das marcas de surfskate mais reconhecidas, ajudando as pessoas a encontrar ondas, onde quer que estejam. <\/p>",
+              "subtitle": "AQUI COMEÇOU",
+              "title": "O NASCIMENTO DA YOW",
+              "text": "<p>A nossa história começa em 2014 quando o engenheiro andaluz <em>Juanjo Almansa<\/em> , não muito convencido pelos sistemas de surfskate existentes, decide desenhar a sua própria versão de um surfskate para ajudar a sua filha a treinar o surf no interior. Ele então apresenta o protótipo aos <em>irmãos Iraola<\/em> - pioneiros na construção de skates old school na Europa.<\/p><p>Após um ano e meio de intenso desenvolvimento, YOW, que significa <em>“Your Own Wave”<\/em> , começou. Desde então, a marca expandiu-se por todo o mundo tornando-se uma das marcas de surfskate mais reconhecidas, ajudando as pessoas a encontrar ondas, onde quer que estejam. <\/p>",
               "button_label": "",
               "button_link": "",
               "layout": "left"
@@ -421,7 +421,7 @@
               "image_width": 500,
               "subtitle": "UMA EVOLUÇÃO CONSTANTE",
               "title": "NOSSAS CRENÇAS",
-              "text": "<p>A YOW está e sempre estará em constante evolução, adaptando-se ao mundo em constante mudança em que vivemos, mantendo uma série de valores que representam o cerne da nossa empresa. <\/p><p>Estamos empenhados em nos tornar mais do que apenas uma marca de surfskate. Queremos construir uma comunidade e inspirar as gerações atuais e futuras enquanto caminhamos para uma forma de fazer negócios mais empática, socialmente responsável e ecológica, mantendo-nos fiéis a nós mesmos. <\/p>",
+              "text": "<p>A YOW está e sempre estará em constante evolução, adaptando-se ao mundo de constantes mudança em que vivemos, mantendo uma série de valores que representam a espinha dorsal da nossa empresa. <\/p><p>Estamos empenhados em nos tornar mais do que apenas uma marca de surfskate. Queremos construir uma comunidade e inspirar as gerações atuais e futuras enquanto caminhamos para uma forma de fazer negócios mais empática, socialmente responsável e ecológica, mantendo-nos fiéis a nós mesmos. <\/p>",
               "button_label": "",
               "button_link": "",
               "layout": "right"
@@ -451,9 +451,9 @@
             "settings": {
               "image": "shopify:\/\/shop_images\/1080x1080_yow-meraki_540x_e8e2d7d1-1b86-4ca0-99ba-4f470e01b64f.webp",
               "image_width": 500,
-              "subtitle": "NÓS AMAMOS PATINAR",
-              "title": "O SISTEMA MERAKI SURFSKATE",
-              "text": "<p>O sistema de surfskate YOW Meraki é o culminar dos últimos 5 anos de pesquisa e desenvolvimento. Um design mais simplificado e reforçado junto com nosso sistema de mola patenteado o torna uma das configurações de surfskate mais exclusivas do mundo. O novo sistema agora está unificado aos nossos próprios caminhões de skate, tornando-o mais estável sem sacrificar o fluxo de surf pelo qual nosso sistema é bem conhecido.<\/p><p><em><strong>Leve seu surfskating para o próximo nível.<\/strong><\/em><\/p>",
+              "subtitle": "NÓS AMAMOS DESLIZAR",
+              "title": "SISTEMA MERAKI SURFSKATE",
+              "text": "<p>O sistema de surfskate YOW Meraki é o resultar na soma dos últimos 5 anos de pesquisa e desenvolvimento. Um design mais simplificado e reforçado junto com nosso sistema de mola patenteado o torna uma das configurações de surfskate mais exclusivas do mundo. O novo sistema agora está unificado aos nossos próprios trucks de skate, tornando-o mais estável sem sacrificar o fluxo de surf pelo qual nosso sistema é bem conhecido.<\/p><p><strong>Eleve seu SurfSkating para o próximo nível.<\/strong><\/p>",
               "button_label": "",
               "button_link": "",
               "layout": "left"
