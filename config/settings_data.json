@@ -137,7 +137,7 @@
           "announcement_above_header": true,
           "toolbar_menu": "",
           "toolbar_social": true,
-          "show_locale_selector": true,
+          "show_locale_selector": false,
           "show_currency_selector": false,
           "show_currency_flags": false
         }
