@@ -831,8 +831,8 @@
             "type": "simple",
             "settings": {
               "link": "shopify:\/\/collections\/serie-de-desempenho",
-              "text": "PERFORMANCE SERIES",
-              "image": "shopify:\/\/shop_images\/1690817893_0.png",
+              "text": "LINHA PERFORMANCE",
+              "image": "shopify:\/\/shop_images\/YOW-2837_53625a79-af58-4cb8-b902-20b3f07216ab.jpg",
               "width": "33",
               "height": 500,
               "color_tint": "#000000",
@@ -844,8 +844,8 @@
             "type": "simple",
             "settings": {
               "link": "shopify:\/\/collections\/serie-shaper",
-              "text": "",
-              "image": "shopify:\/\/shop_images\/1690817909_0.png",
+              "text": "EDIÇÃO SHAPERS",
+              "image": "shopify:\/\/shop_images\/Pukas-Surf-Shop-Surfskates-Yow_1445x_b11992e5-e190-42a7-84fc-5b125b9e6fb7.webp",
               "width": "33",
               "height": 500,
               "color_tint": "#000000",
@@ -857,8 +857,8 @@
             "type": "simple",
             "settings": {
               "link": "shopify:\/\/collections\/serie-de-assinaturas",
-              "text": "",
-              "image": "shopify:\/\/shop_images\/1690817920_0.png",
+              "text": "ASSINATURAS",
+              "image": "shopify:\/\/shop_images\/istockphoto-488693161-612x612.jpg",
               "width": "33",
               "height": 500,
               "color_tint": "#000000",
@@ -871,7 +871,7 @@
             "settings": {
               "link": "shopify:\/\/collections\/os-gross",
               "text": "",
-              "image": "shopify:\/\/shop_images\/1690817935_0.png",
+              "image": "shopify:\/\/shop_images\/DSC04802.jpg",
               "width": "33",
               "height": 500,
               "color_tint": "#000000",
