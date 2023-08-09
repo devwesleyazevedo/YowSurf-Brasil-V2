@@ -292,7 +292,7 @@
           "product-text-and-image": {
             "type": "text-and-image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Meraki-Logo-2_540x_1a3f5d97-299c-4fdd-a926-4b2285796773.webp",
+              "image": "shopify:\/\/shop_images\/yow_meraki_system_box.jpg",
               "image_width": 500,
               "subtitle": "NOVO SISTEMA DE CAMINHÃO",
               "title": "APRESENTANDO MERAKI",
@@ -323,7 +323,7 @@
               "text": "<p>Todos os Yow Surfskates são fabricados no País Basco, na Espanha, por nosso grande grupo de skatistas dedicados.Todos os produtos Yow foram exaustivamente testados para resistir a qualquer coisa que você possa jogar neles.<\/p>",
               "button_label": "Saber mais",
               "button_link": "",
-              "image": "shopify:\/\/shop_images\/1920x1080_yow_grop_air_1500x_5cd9ce37-32fb-4d9a-af2b-59e87ed1ca4a.webp",
+              "image": "shopify:\/\/shop_images\/Daniela-3.jpg",
               "alignment": "center",
               "color_border": "#f4f4f4",
               "layout": "right",
@@ -344,7 +344,7 @@
               "link_text_2": "",
               "color_accent": "#ffffff",
               "text_align": "vertical-center horizontal-center",
-              "image": "shopify:\/\/shop_images\/1920x1080_yow_features_nomoreflatdays_2400x_900b099c-4530-4d85-b389-b85643e47bab.jpg",
+              "image": "shopify:\/\/shop_images\/YowValentina01416.jpg",
               "focal_point": "bottom center",
               "section_height": "650px",
               "mobile_height": "auto"
