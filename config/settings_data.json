@@ -519,7 +519,7 @@
       "newsletter-popup": {
         "type": "newsletter-popup",
         "settings": {
-          "mode": "enabled",
+          "mode": "disabled",
           "popup_seconds": 60,
           "popup_days": 2,
           "popup_title": "fique por dentro",
