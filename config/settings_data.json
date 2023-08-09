@@ -759,11 +759,11 @@
         "type": "featured-collection",
         "settings": {
           "title": "PRODUTOS",
-          "home_featured_products": "todas",
+          "home_featured_products": "destaques-principais-produtos-yow-surfskate",
           "per_row": 4,
-          "rows": 2,
-          "mobile_scrollable": false,
-          "view_all": true,
+          "rows": 1,
+          "mobile_scrollable": true,
+          "view_all": false,
           "divider": false
         }
       },
