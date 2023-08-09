@@ -520,7 +520,7 @@
         "type": "newsletter-popup",
         "settings": {
           "mode": "enabled",
-          "popup_seconds": 30,
+          "popup_seconds": 60,
           "popup_days": 2,
           "popup_title": "fique por dentro",
           "popup_image": "shopify:\/\/shop_images\/1920x1080_yow_mainbanner_train_1080x_13606ebc-bce4-4ef6-999b-66de80d4f62e.webp",
