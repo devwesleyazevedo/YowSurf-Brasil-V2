@@ -759,7 +759,7 @@
         "type": "featured-collection",
         "settings": {
           "title": "QUIVER YOW",
-          "home_featured_products": "destaques-principais-produtos-yow-surfskate",
+          "home_featured_products": "surfskates",
           "per_row": 5,
           "rows": 1,
           "mobile_scrollable": true,
