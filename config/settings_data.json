@@ -116,7 +116,7 @@
           "1524770292306": {
             "type": "announcement",
             "settings": {
-              "text": "ATÉ 4 X SEM JUROS! 5% OFF NO PIX!",
+              "text": "ATÉ 6 X SEM JUROS! 10% OFF NO PIX! FRETE GRÁTIS SUL E SP!",
               "link_text": "GARANTA JÁ SEU YOW!",
               "link": "shopify:\/\/collections\/all"
             }
@@ -893,7 +893,7 @@
           ".promo-grid__container--tint:hover:before {opacity: 0.25;}",
           ".promo-grid__container--tint .promo-grid__bg {transition: all 0.3s ease;}",
           ".promo-grid__container--tint:hover .promo-grid__bg {transform: scale(1.1);}",
-          "@media(max-width: 500px){.flex-grid__item {flex-basis: 100% !important;}}"
+          "@media (max-width: 500px) {.flex-grid__item {flex-basis: 100% !important; }}"
         ],
         "settings": {
           "full_width": false,
