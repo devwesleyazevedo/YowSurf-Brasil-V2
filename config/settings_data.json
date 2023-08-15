@@ -549,7 +549,7 @@
               "color_accent": "#000000",
               "text_align": "vertical-center horizontal-center",
               "image": "shopify:\/\/shop_images\/2121797.jpg",
-              "focal_point": "20% 100%"
+              "focal_point": "20% 0"
             }
           }
         },
