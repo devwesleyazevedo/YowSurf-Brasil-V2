@@ -1082,7 +1082,7 @@
             "settings": {
               "full_width": false,
               "space_around": true,
-              "code": "<br>"
+              "code": ""
             }
           }
         },
