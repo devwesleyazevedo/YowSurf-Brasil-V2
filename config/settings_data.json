@@ -1024,6 +1024,14 @@
               "mobile_height": "auto"
             }
           },
+          "1d422622-b440-4d9a-b0f1-0c94a9aa8ae9": {
+            "type": "custom-html",
+            "settings": {
+              "full_width": false,
+              "space_around": true,
+              "code": "<br>"
+            }
+          },
           "2227af49-1669-49e3-9164-c807c7fff547": {
             "type": "image-row",
             "settings": {
@@ -1035,14 +1043,47 @@
               "image_3_link": "",
               "image_4": "shopify:\/\/shop_images\/Yowsurf08986_1.jpg",
               "image_4_link": "",
-              "enable_gutter": false,
+              "enable_gutter": true,
+              "enable_zoom": true
+            }
+          },
+          "07e51a83-da73-438c-bea2-14e1f026c00e": {
+            "type": "image-row",
+            "settings": {
+              "image_1": "shopify:\/\/shop_images\/medina004_b_af03bdc9-c376-4809-a930-a9ce53f329b9.jpg",
+              "image_1_link": "",
+              "image_2": "shopify:\/\/shop_images\/TIN_8327.jpg",
+              "image_2_link": "",
+              "image_3": "shopify:\/\/shop_images\/LowersYow-3.jpg",
+              "image_3_link": "",
+              "image_4": "shopify:\/\/shop_images\/Yowsurf08986_1.jpg",
+              "image_4_link": "",
+              "enable_gutter": true,
+              "enable_zoom": true
+            }
+          },
+          "e40a5c3e-5ccf-4400-be4a-f327738e1ed2": {
+            "type": "image-row",
+            "settings": {
+              "image_1": "shopify:\/\/shop_images\/medina004_b_af03bdc9-c376-4809-a930-a9ce53f329b9.jpg",
+              "image_1_link": "",
+              "image_2": "shopify:\/\/shop_images\/TIN_8327.jpg",
+              "image_2_link": "",
+              "image_3": "shopify:\/\/shop_images\/LowersYow-3.jpg",
+              "image_3_link": "",
+              "image_4": "shopify:\/\/shop_images\/Yowsurf08986_1.jpg",
+              "image_4_link": "",
+              "enable_gutter": true,
               "enable_zoom": true
             }
           }
         },
         "block_order": [
           "cded327e-cd01-4427-a64c-651ca561837a",
-          "2227af49-1669-49e3-9164-c807c7fff547"
+          "1d422622-b440-4d9a-b0f1-0c94a9aa8ae9",
+          "2227af49-1669-49e3-9164-c807c7fff547",
+          "07e51a83-da73-438c-bea2-14e1f026c00e",
+          "e40a5c3e-5ccf-4400-be4a-f327738e1ed2"
         ],
         "settings": {
           "page_title_enable": false,
