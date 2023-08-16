@@ -1001,6 +1001,37 @@
           "page_title_enable": true,
           "page_content_enable": true
         }
+      },
+      "page-sections-galeria-template": {
+        "type": "page-sections-galeria-template",
+        "blocks": {
+          "cded327e-cd01-4427-a64c-651ca561837a": {
+            "type": "image-hero",
+            "settings": {
+              "parallax": true,
+              "title": "Nossa\nGaleria",
+              "title_size": 80,
+              "subheading": "SKATES YOW",
+              "link": "",
+              "link_text": "",
+              "link_2": "",
+              "link_text_2": "",
+              "color_accent": "rgba(0,0,0,0)",
+              "text_align": "vertical-center horizontal-center",
+              "image": "shopify:\/\/shop_images\/A09I2554.jpg",
+              "focal_point": "center center",
+              "section_height": "650px",
+              "mobile_height": "auto"
+            }
+          }
+        },
+        "block_order": [
+          "cded327e-cd01-4427-a64c-651ca561837a"
+        ],
+        "settings": {
+          "page_title_enable": false,
+          "page_content_enable": false
+        }
       }
     },
     "content_for_index": [
