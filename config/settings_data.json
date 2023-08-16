@@ -1076,6 +1076,14 @@
               "enable_gutter": true,
               "enable_zoom": true
             }
+          },
+          "e4dd8201-63dc-4e30-882e-391eca07e98d": {
+            "type": "custom-html",
+            "settings": {
+              "full_width": false,
+              "space_around": true,
+              "code": "<br>"
+            }
           }
         },
         "block_order": [
@@ -1083,7 +1091,8 @@
           "1d422622-b440-4d9a-b0f1-0c94a9aa8ae9",
           "2227af49-1669-49e3-9164-c807c7fff547",
           "07e51a83-da73-438c-bea2-14e1f026c00e",
-          "e40a5c3e-5ccf-4400-be4a-f327738e1ed2"
+          "e40a5c3e-5ccf-4400-be4a-f327738e1ed2",
+          "e4dd8201-63dc-4e30-882e-391eca07e98d"
         ],
         "settings": {
           "page_title_enable": false,
