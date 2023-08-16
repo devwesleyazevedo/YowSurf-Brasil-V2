@@ -1023,10 +1023,26 @@
               "section_height": "650px",
               "mobile_height": "auto"
             }
+          },
+          "2227af49-1669-49e3-9164-c807c7fff547": {
+            "type": "image-row",
+            "settings": {
+              "image_1": "shopify:\/\/shop_images\/medina004_b_af03bdc9-c376-4809-a930-a9ce53f329b9.jpg",
+              "image_1_link": "",
+              "image_2": "shopify:\/\/shop_images\/TIN_8327.jpg",
+              "image_2_link": "",
+              "image_3": "shopify:\/\/shop_images\/LowersYow-3.jpg",
+              "image_3_link": "",
+              "image_4": "shopify:\/\/shop_images\/Yowsurf08986_1.jpg",
+              "image_4_link": "",
+              "enable_gutter": false,
+              "enable_zoom": true
+            }
           }
         },
         "block_order": [
-          "cded327e-cd01-4427-a64c-651ca561837a"
+          "cded327e-cd01-4427-a64c-651ca561837a",
+          "2227af49-1669-49e3-9164-c807c7fff547"
         ],
         "settings": {
           "page_title_enable": false,
