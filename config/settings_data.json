@@ -1077,7 +1077,7 @@
           "e40a5c3e-5ccf-4400-be4a-f327738e1ed2"
         ],
         "custom_css": [
-          ".image-row.image-row--gutters {margin-top: 15px; }"
+          ".image-row.image-row--gutters {margin-top: 15px;}"
         ],
         "settings": {
           "page_title_enable": false,
