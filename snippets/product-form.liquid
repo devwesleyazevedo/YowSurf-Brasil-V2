@@ -109,7 +109,112 @@
 
 
 
-<div>aaa</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div style="display: flex;align-items: center;gap: 10px;">
+         <div>
+            <svg focusable="false" viewBox="0 0 24 22" role="presentation">
+               <g transform="translate(1 1)" stroke-width="2" fill="none" fill-rule="evenodd">
+                  <path d="M5 10H2M5 15H4" stroke="#00badb" stroke-linecap="square"></path>
+                  <path stroke="#1e2d7d" d="M16.829 16H22v-6l-4-2-1-4H9v12h2.171"></path>
+                  <path d="M0 5h5" stroke="#00badb" stroke-linecap="square"></path>
+                  <path stroke="#1e2d7d" stroke-linecap="square" d="M0 0h9v4"></path>
+                  <circle stroke="#1e2d7d" stroke-linecap="square" cx="14" cy="17" r="3"></circle>
+                  <path stroke="#1e2d7d" stroke-linecap="square" d="M13 7v2h2"></path>
+               </g>
+            </svg>
+         </div>
+         <input type="text" id="cep" placeholder="Digite o CEP" style="font-size: 14px;width:150px; height: 38px;display: inline-block;-webkit-border-radius: 4px;-moz-border-radius: 4px;border-radius: 4px;line-height: 40px;height: 40px;padding: 0 10px;border: 1px solid #E5E5E5;float: left;margin-right: 0;">
+         <button onclick="calcularFrete()" style="background-color: #F4F4F4;border: 0 none;border-radius: 4px;height: 40px;min-width: 45px !important;color:#4a4a4a !important;font-family: arial, tahoma, verdana, sans-serif !important;font-weight: normal;font-size: 15px;text-transform: none;margin: 0 0 0 7px;">OK</button>
+      </div>
+      <p id="valor-frete" style="visibility: hidden;">Valor do Frete:</p>
+      <script>
+         async function obterEstadoPorCEP(cep) {
+             try {
+                 const response = await fetch(`https://viacep.com.br/ws/${cep}/json/`);
+                 const data = await response.json();
+                 return data.uf;
+             } catch (error) {
+                 console.error("Erro ao obter estado por CEP:", error);
+                 return null;
+             }
+         }
+         
+         function calcularFrete() {
+             var cepInserido = document.getElementById("cep").value;
+         
+             obterEstadoPorCEP(cepInserido)
+                 .then(estadoEncontrado => {
+                     if (estadoEncontrado !== null) {
+                         var valorFrete = calcularValorFrete(estadoEncontrado);
+                         document.getElementById("valor-frete").textContent = "Valor do Frete: R$" + valorFrete.toFixed(2);
+                         document.getElementById("valor-frete").style.visibility = "visible";
+                     } else {
+                         document.getElementById("valor-frete").textContent = "CEP não encontrado ou inválido.";
+                         document.getElementById("valor-frete").style.visibility = "visible";
+                     }
+                 });
+         }
+         
+         function calcularValorFrete(estado) {
+             var estadoFrete = {
+                 "DF": 127.00,
+                 "ES": 127.00,
+                 "PR": 5.00,
+                 "RJ": 157.00,
+                 "RS": 117.00,
+                 "SC": 97.00,
+                 "SP": 137.00,
+                 "Outros": 167.00
+             };
+         
+             return estadoFrete[estado] || estadoFrete["Outros"];
+         }
+      </script>
+      <style>
+         svg {
+         width: 30px;
+         }
+      </style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
