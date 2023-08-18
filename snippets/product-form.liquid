@@ -161,7 +161,7 @@
                         var estado = result.uf;
                         var cidade = result.localidade;
                         var valorFrete = calcularValorFrete(estado);
-                        document.getElementById("valor-frete").textContent = `Valor do Frete: R$ ${valorFrete.toFixed(2)} - ${cidade}`;
+                        document.getElementById("valor-frete").innerHTML = `<strong>Valor do Frete:</strong> R$ ${valorFrete.toFixed(2)} - ${cidade} - ${estado}`;
                         document.getElementById("valor-frete").style.visibility = "visible";
                     } else {
                         document.getElementById("valor-frete").textContent = "CEP não encontrado ou inválido.";
