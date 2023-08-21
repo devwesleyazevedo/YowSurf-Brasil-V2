@@ -2921,7 +2921,8 @@
       ".grid-product__price--savings {color: #bdbdbd;}",
       ".product__price-savings {color: #bdbdbd;}",
       ".product-single__meta .rte {display: none !important;}",
-      ".js-qty__adjust {padding: 0 15px;}"
+      ".js-qty__adjust {padding: 0 15px;}",
+      ".js-qty__wrapper {max-width: 150px;}"
     ]
   }
 }
