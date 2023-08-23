@@ -1009,16 +1009,16 @@
             "type": "image-hero",
             "settings": {
               "parallax": true,
-              "title": "Nossa\nGaleria",
+              "title": "Galeria Yow",
               "title_size": 80,
-              "subheading": "SKATES YOW",
+              "subheading": "Imagens de uma história",
               "link": "",
               "link_text": "",
               "link_2": "",
               "link_text_2": "",
               "color_accent": "rgba(0,0,0,0)",
               "text_align": "vertical-center horizontal-center",
-              "image": "shopify:\/\/shop_images\/A09I2554.jpg",
+              "image": "shopify:\/\/shop_images\/Yowsurf08986_1.jpg",
               "focal_point": "center center",
               "section_height": "650px",
               "mobile_height": "auto"
@@ -1027,7 +1027,7 @@
           "2227af49-1669-49e3-9164-c807c7fff547": {
             "type": "image-row",
             "settings": {
-              "image_1": "shopify:\/\/shop_images\/medina004_b_af03bdc9-c376-4809-a930-a9ce53f329b9.jpg",
+              "image_1": "shopify:\/\/shop_images\/A09I2554.jpg",
               "image_1_link": "",
               "image_2": "shopify:\/\/shop_images\/TIN_8327.jpg",
               "image_2_link": "",
