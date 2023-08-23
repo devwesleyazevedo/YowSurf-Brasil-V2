@@ -306,7 +306,7 @@
       "add_to_cart": "Adicionar ao carrinho",
       "preorder": "Pedido antecipado",
       "include_taxes": "Taxas incluídas.",
-      "shipping_policy_html": "<a href='{{ link }}'>Frete<\/a> calculado no checkout.",
+      "shipping_policy_html": "<b>Frete Grátis para Sul e Sudeste<\/b>",
       "will_not_ship_until": "Envio a partir de {{ date }}",
       "will_be_in_stock_after": "Em estoque a partir de {{ date }}",
       "waiting_for_stock": "Inventory no caminho",
