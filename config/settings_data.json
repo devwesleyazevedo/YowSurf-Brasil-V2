@@ -2920,7 +2920,7 @@
       ".grid-product__tag--sale {background-color: #474747; color: #fff; font-weight: 600; border-radius: 20px; display: block; top: -10px; text-transform: uppercase; font-size: 11px; text-align: center; padding: 10px 15px; box-shadow: 0 0.5rem 1.125rem -0.5rem rgb(0 0 0 \/ 59%);}",
       ".grid-product__price--savings {color: #bdbdbd;}",
       ".product__price-savings {color: #bdbdbd;}",
-      ".pproduct-single__meta .rte {display: none !important;}",
+      ".product-single__meta .rte {display: none !important;}",
       ".js-qty__adjust {padding: 0 15px;}",
       ".js-qty__wrapper {max-width: 150px;}"
     ]
