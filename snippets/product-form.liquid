@@ -148,7 +148,7 @@
                   var estado = result.uf;
                   var cidade = result.localidade;
                   var valorFrete = calcularValorFrete(estado);
-                  var valorFreteTexto = valorFrete === 0 ? "Grátis" : `R$ ${valorFrete.toFixed(2)}`;
+                  var valorFreteTexto = valorFrete === 0 ? "Grátis" : `R$ ${valorFrete.toFixed(2)} BRL`;
                   document.getElementById("valor-frete").innerHTML = `<strong>Valor do Frete:</strong> ${valorFreteTexto} - ${cidade} - ${estado}`;
                   document.getElementById("valor-frete").style.visibility = "visible";
               } else {
@@ -160,20 +160,38 @@
   
   function calcularValorFrete(estado) {
       var estadoFrete = {
+          "AC": 275.00,
+          "AL": 275.00,
+          "AM": 275.00,
+          "AP": 275.00,
+          "BA": 275.00,
+          "CE": 275.00,
           "DF": 47.00,
           "ES": 0,
+          "GO": 275.00,
+          "MA": 275.00,
+          "MT": 275.00,
+          "MS": 275.00,
+          "PA": 275.00,
+          "PB": 275.00,
+          "PE": 275.00,
+          "PI": 275.00,
           "PR": 0,
           "RJ": 0,
+          "RN": 275.00,
+          "RO": 275.00,
+          "RR": 275.00,
           "RS": 0,
           "SC": 0,
+          "SE": 275.00,
           "SP": 0,
-          "MG": 0,
-          "Outros": 275.00
+          "TO": 275.00
       };
   
-      return estadoFrete[estado] || estadoFrete["Outros"];
+      return estadoFrete[estado] || 275.00;
   }
 </script>
+
 
 <style>
    svg {
