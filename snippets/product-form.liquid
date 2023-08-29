@@ -121,54 +121,60 @@
 </div>
 <p id="valor-frete" style="visibility: hidden;margin-top: 10px;"><b>Valor do Frete:</b></p>
 <script>
-   async function obterEstadoPorCEP(cep) {
-       try {
-           const response = await fetch(`https://viacep.com.br/ws/${cep}/json/`);
-           const data = await response.json();
-           return {
-               uf: data.uf,
-               localidade: data.localidade
-           };
-       } catch (error) {
-           console.error("Erro ao obter estado por CEP:", error);
-           return null;
-       }
-   }
-   
-   function calcularFrete() {
-       var cepInserido = document.getElementById("cep").value;
-   
-       obterEstadoPorCEP(cepInserido)
-           .then(result => {
-               if (result !== null) {
-                   var estado = result.uf;
-                   var cidade = result.localidade;
-                   var valorFrete = calcularValorFrete(estado);
-                   document.getElementById("valor-frete").innerHTML = `<strong>Valor do Frete:</strong> R$ ${valorFrete.toFixed(2)} - ${cidade} - ${estado}`;
-                   document.getElementById("valor-frete").style.visibility = "visible";
-               } else {
-                   document.getElementById("valor-frete").textContent = "CEP não encontrado ou inválido.";
-                   document.getElementById("valor-frete").style.visibility = "visible";
-               }
-           });
-   }
-   
-   function calcularValorFrete(estado) {
-       var estadoFrete = {
-           "DF": 47.00,
-           "ES": "Grátis",
-           "PR": "Grátis",
-           "RJ": "Grátis",
-           "RS": "Grátis",
-           "SC": "Grátis",
-           "SP": "Grátis",
-           "MG": "Grátis",
-           "Outros": 275.00
-       };
-   
-       return estadoFrete[estado] || estadoFrete["Outros"];
-   }
+  async function obterEstadoPorCEP(cep) {
+      try {
+          const response = await fetch(`https://viacep.com.br/ws/${cep}/json/`);
+          const data = await response.json();
+          return {
+              uf: data.uf,
+              localidade: data.localidade
+          };
+      } catch (error) {
+          console.error("Erro ao obter estado por CEP:", error);
+          return null;
+      }
+  }
+  
+  function calcularFrete() {
+      var cepInserido = document.getElementById("cep").value;
+      if (!cepInserido.match(/^\d{5}-?\d{3}$/)) {
+          alert("CEP inválido. Insira um CEP válido.");
+          return;
+      }
+  
+      obterEstadoPorCEP(cepInserido)
+          .then(result => {
+              if (result !== null) {
+                  var estado = result.uf;
+                  var cidade = result.localidade;
+                  var valorFrete = calcularValorFrete(estado);
+                  var valorFreteTexto = valorFrete === 0 ? "Grátis" : `R$ ${valorFrete.toFixed(2)}`;
+                  document.getElementById("valor-frete").innerHTML = `<strong>Valor do Frete:</strong> ${valorFreteTexto} - ${cidade} - ${estado}`;
+                  document.getElementById("valor-frete").style.visibility = "visible";
+              } else {
+                  document.getElementById("valor-frete").textContent = "Erro ao obter informações do CEP.";
+                  document.getElementById("valor-frete").style.visibility = "visible";
+              }
+          });
+  }
+  
+  function calcularValorFrete(estado) {
+      var estadoFrete = {
+          "DF": 47.00,
+          "ES": 0,
+          "PR": 0,
+          "RJ": 0,
+          "RS": 0,
+          "SC": 0,
+          "SP": 0,
+          "MG": 0,
+          "Outros": 275.00
+      };
+  
+      return estadoFrete[estado] || estadoFrete["Outros"];
+  }
 </script>
+
 <style>
    svg {
    width: 30px;
