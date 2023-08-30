@@ -361,7 +361,7 @@
         ],
         "settings": {
           "description_style": "default",
-          "social_enable": true,
+          "social_enable": false,
           "image_position": "left",
           "image_size": "medium",
           "thumbnail_position": "below",
