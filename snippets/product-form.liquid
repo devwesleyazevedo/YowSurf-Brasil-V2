@@ -149,7 +149,7 @@
                   var cidade = result.localidade;
                   var valorFrete = calcularValorFrete(estado);
                   var valorFreteTexto = valorFrete === 0 ? "Grátis" : `R$ ${valorFrete.toFixed(2)} BRL`;
-                  document.getElementById("valor-frete").innerHTML = `<strong>Valor do Frete:</strong> ${valorFreteTexto} - ${cidade} - ${estado}`;
+                  document.getElementById("valor-frete").innerHTML = `<strong>Valor do Frete:</strong> ${valorFreteTexto} - ${estado}`;
                   document.getElementById("valor-frete").style.visibility = "visible";
               } else {
                   document.getElementById("valor-frete").textContent = "Erro ao obter informações do CEP.";
@@ -169,6 +169,7 @@
       return estadoFrete[estado] !== undefined ? estadoFrete[estado] : estadoFrete["Outros"];
   }
 </script>
+
 
 
 
