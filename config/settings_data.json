@@ -832,7 +832,7 @@
             "type": "simple",
             "settings": {
               "link": "shopify:\/\/collections\/serie-de-desempenho",
-              "text": "LINHA PERFORMANCE",
+              "text": "YOW SERIES",
               "image": "shopify:\/\/shop_images\/YOW-2837_53625a79-af58-4cb8-b902-20b3f07216ab.jpg",
               "width": "33",
               "height": 500,
@@ -930,7 +930,7 @@
               "cta_link1": "https:\/\/youtu.be\/HpYa7oXN8nI?si=yDjz2cFc5_iVmmsC",
               "cta_text2": "",
               "cta_link2": "",
-              "video_url": "https:\/\/www.youtube.com\/watch?v=L1FlIoZVETY",
+              "video_url": "https:\/\/youtu.be\/HpYa7oXN8nI?si=yDjz2cFc5_iVmmsC",
               "width": "50",
               "height": 400,
               "text_size": 100,
