@@ -365,7 +365,7 @@
           "image_position": "left",
           "image_size": "medium",
           "thumbnail_position": "below",
-          "thumbnail_arrows": false,
+          "thumbnail_arrows": true,
           "enable_video_looping": true,
           "product_video_style": "muted"
         }
