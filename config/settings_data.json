@@ -1079,7 +1079,7 @@
         ],
         "custom_css": [
           ".image-row.image-row--gutters {margin-top: 15px;}",
-          "@media (max-width: 500px) {.image-row.image-row--gutters {margin-top: 0px; } .slideshow-wrapper {margin-bottom: 5px; }}"
+          "@media (max-width: 500px) {.image-row.image-row--gutters {margin-top: 0px; } .slideshow-wrapper {margin-bottom: 5px; } .image-row.image-row--gutters {display: grid; grid-template-columns: 1fr 1fr; } .image-row__image {width: 100% !important; }}"
         ],
         "settings": {
           "page_title_enable": false,
