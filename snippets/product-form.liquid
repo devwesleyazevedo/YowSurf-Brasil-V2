@@ -160,10 +160,21 @@
   
   function calcularValorFrete(estado) {
       var estadoFrete = {
-          "DF": 47.00,
+          "PR": 0,
+          "SC": 0,
+          "RS": 0,
+          "SP": 0,
+          "DF": 0,
+          "RJ": 0,
           "ES": 0,
-          "MG": 0,
-          "Outros": 275.00
+          "AC": 207.00,
+          "AP": 207.00,
+          "AM": 207.00,
+          "PA": 207.00,
+          "RO": 207.00,
+          "RR": 207.00,
+          "TO": 207.00,
+          "Outros": 127.00
       };
   
       return estadoFrete[estado] !== undefined ? estadoFrete[estado] : estadoFrete["Outros"];
