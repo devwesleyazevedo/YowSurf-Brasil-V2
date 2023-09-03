@@ -548,9 +548,9 @@
               "link_2": "",
               "link_text_2": "",
               "color_accent": "#000000",
-              "text_align": "vertical-center horizontal-center",
+              "text_align": "vertical-bottom horizontal-left",
               "image": "shopify:\/\/shop_images\/WhatsApp_Image_2023-09-03_at_11.22.04.jpg",
-              "focal_point": "center center"
+              "focal_point": "bottom center"
             }
           }
         },
