@@ -771,6 +771,14 @@
       "0a771dc9-dbd1-4702-bc73-2fe828d8cdd0": {
         "type": "promo-grid",
         "blocks": {
+          "17b2e4b4-c53c-45c2-ba8b-ba800ee94311": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Yowsurf08989.jpg",
+              "link": "",
+              "width": "50"
+            }
+          },
           "e58356b7-0fdc-4046-9a6e-5b5f39449d41": {
             "type": "product",
             "settings": {
@@ -787,19 +795,11 @@
               "color_tint_opacity": 0,
               "framed": false
             }
-          },
-          "17b2e4b4-c53c-45c2-ba8b-ba800ee94311": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/productfeature_christenson_720x_aca96c12-a45c-4dcc-906e-ea7f7f10e2cd.webp",
-              "link": "",
-              "width": "50"
-            }
           }
         },
         "block_order": [
-          "e58356b7-0fdc-4046-9a6e-5b5f39449d41",
-          "17b2e4b4-c53c-45c2-ba8b-ba800ee94311"
+          "17b2e4b4-c53c-45c2-ba8b-ba800ee94311",
+          "e58356b7-0fdc-4046-9a6e-5b5f39449d41"
         ],
         "settings": {
           "full_width": false,
