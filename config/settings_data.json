@@ -50,7 +50,7 @@
     "quantity_enable": true,
     "variant_labels_enable": true,
     "variant_type": "button",
-    "enable_payment_button": false,
+    "enable_payment_button": true,
     "inventory_enable": false,
     "inventory_transfers_enable": false,
     "product_save_amount": true,
