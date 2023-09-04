@@ -220,7 +220,7 @@
           "subcollection_style": "none",
           "subcollections_per_row": 4,
           "enable_collection_count": false,
-          "per_row": 2,
+          "per_row": 3,
           "rows_per_page": 7,
           "mobile_flush_grid": false
         }
