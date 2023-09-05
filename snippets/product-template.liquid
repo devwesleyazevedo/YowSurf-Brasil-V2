@@ -95,7 +95,7 @@
             {%- if settings.sku_enable -%}
               <p id="Sku-{{ section_id }}" class="product-single__sku">
                 {%- if current_variant.sku -%}
-                  SKU: {{ current_variant.sku }}
+                  <b>SKU:</b> {{ current_variant.sku }}
                 {%- endif -%}
               </p>
             {%- endif -%}
@@ -127,6 +127,21 @@
               class="product__price{% if current_variant.compare_at_price > current_variant.price %} on-sale{% endif %}">
               {{ current_variant.price | money }}
             </span>
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
+
 
             {%- if settings.product_save_amount -%}
               {%- if settings.product_save_type == 'dollar' -%}
