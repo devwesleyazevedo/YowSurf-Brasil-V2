@@ -39,6 +39,16 @@
 {%- if current_variant.inventory_quantity == 0 -%}
 {%- assign inventory_visible = false -%}
 {%- endif -%}
+
+
+
+
+
+
+---
+
+
+
 <div
    id="ProductInventory-{{ section_id }}"
    class="product__inventory {% unless inventory_visible %}hide{% endunless %}"
