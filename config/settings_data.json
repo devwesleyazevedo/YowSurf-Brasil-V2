@@ -549,7 +549,7 @@
               "link_text_2": "",
               "color_accent": "#000000",
               "text_align": "vertical-center horizontal-center",
-              "image": "shopify:\/\/shop_images\/BANNER_SITE_copy_340c27bf-e66a-4ce9-8540-1693b81378dd.jpg",
+              "image": "shopify:\/\/shop_images\/BANNER_STE_02.jpg",
               "focal_point": "bottom center"
             }
           }
@@ -977,7 +977,7 @@
       "9d3cdf02-6b20-42f6-a19b-0d149a43a3c1": {
         "type": "newsletter",
         "settings": {
-          "title": "JUNTE-SE À GRUPO",
+          "title": "FAÇA PARTE DESSA NOVA ERA! JUNTE-SE A YOW",
           "text": "<p>Inscreva-se para atualizações, lançamentos de produtos e muito mais.<\/p>",
           "color_background": "#ffcd00",
           "color_text": "#1c1d1d"
