@@ -1085,6 +1085,37 @@
           "page_title_enable": false,
           "page_content_enable": false
         }
+      },
+      "page-sections-obrigado-template": {
+        "type": "page-sections-obrigado-template",
+        "blocks": {
+          "b3283a0f-0155-4c3d-834e-46becfebc0b8": {
+            "type": "image-hero",
+            "settings": {
+              "parallax": true,
+              "title": "Obrigado\n pela sua compra!",
+              "title_size": 80,
+              "subheading": "Você é incrível!",
+              "link": "",
+              "link_text": "",
+              "link_2": "",
+              "link_text_2": "",
+              "color_accent": "rgba(0,0,0,0)",
+              "text_align": "vertical-center horizontal-center",
+              "image": "shopify:\/\/shop_images\/xuegil01076.jpg",
+              "focal_point": "center center",
+              "section_height": "100vh",
+              "mobile_height": "auto"
+            }
+          }
+        },
+        "block_order": [
+          "b3283a0f-0155-4c3d-834e-46becfebc0b8"
+        ],
+        "settings": {
+          "page_title_enable": false,
+          "page_content_enable": false
+        }
       }
     },
     "content_for_index": [
