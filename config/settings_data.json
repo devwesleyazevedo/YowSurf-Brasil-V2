@@ -1102,7 +1102,7 @@
               "link_text_2": "",
               "color_accent": "{{ shop.brand.colors.secondary[1].background }}",
               "text_align": "vertical-center horizontal-center",
-              "image": "shopify:\/\/shop_images\/xuegil01076.jpg",
+              "image": "shopify:\/\/shop_images\/1-4.jpg",
               "focal_point": "center center",
               "section_height": "750px",
               "mobile_height": "auto"
