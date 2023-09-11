@@ -1104,7 +1104,7 @@
               "text_align": "vertical-center horizontal-center",
               "image": "shopify:\/\/shop_images\/xuegil01076.jpg",
               "focal_point": "center center",
-              "section_height": "100vh",
+              "section_height": "750px",
               "mobile_height": "auto"
             }
           }
