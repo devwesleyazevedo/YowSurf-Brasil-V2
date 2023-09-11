@@ -2923,7 +2923,8 @@
       ".grid-product__price--savings {color: #bdbdbd;}",
       ".product__price-savings {color: #bdbdbd;}",
       ".js-qty__adjust {padding: 0 15px;}",
-      ".js-qty__wrapper {max-width: 150px;}"
+      ".js-qty__wrapper {max-width: 150px;}",
+      ".text-spacing.rte p {font-size: 30px;}"
     ]
   }
 }
