@@ -520,9 +520,9 @@
       "newsletter-popup": {
         "type": "newsletter-popup",
         "settings": {
-          "mode": "testing",
-          "popup_seconds": 20,
-          "popup_days": 2,
+          "mode": "enabled",
+          "popup_seconds": 60,
+          "popup_days": 7,
           "popup_title": "6x sem juros e frete grátis no mês de lancamento! aproveite!",
           "popup_image": "shopify:\/\/shop_images\/IMG_2426.jpg",
           "popup_text": "<p>Inscreva-se para receber ofertas especiais, lançamentos e outras novidades.<\/p>",
