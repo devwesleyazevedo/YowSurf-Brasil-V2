@@ -117,7 +117,7 @@
       "update": "Atualizar Carrinho",
       "checkout": "Fechar pedido",
       "empty": "Seu carrinho está vazio no momento.",
-      "continue_browsing_html": "Continue navegando <a href='{{ url }}'>aqui<\/a>.",
+      "continue_browsing_html": "Continue comprando <a href='{{ url }}'>aqui<\/a>.",
       "close_cart": "Fechar carrinho",
       "reduce_quantity": "Reduzir quantidade em uma unidade",
       "increase_quantity": "Aumentar quantidade em uma unidade",
